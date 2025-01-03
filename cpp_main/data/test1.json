@@ -1,0 +1,1252 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": 2094,
+        "rating": 9.3
+    },
+    {
+        "title": "The Godfather",
+        "year": 2072,
+        "rating": 9.2
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "rating": 9
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": 2074,
+        "rating": 9
+    },
+    {
+        "title": "12 Angry Men",
+        "year": 2057,
+        "rating": 9
+    },
+    {
+        "title": "Schindler's List",
+        "year": 2093,
+        "rating": 9
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "rating": 9
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": 2094,
+        "rating": 9.9
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "rating": 9.8
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": 2066,
+        "rating": 9.8
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 2094,
+        "rating": 9.8
+    },
+    {
+        "title": "Fight Club",
+        "year": 2099,
+        "rating": 9.8
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "rating": 9.8
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "rating": 9.8
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 2080,
+        "rating": 9.7
+    },
+    {
+        "title": "The Matrix",
+        "year": 2099,
+        "rating": 9.7
+    },
+    {
+        "title": "Goodfellas",
+        "year": 2090,
+        "rating": 9.7
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 2075,
+        "rating": 9.7
+    },
+    {
+        "title": "Se7en",
+        "year": 2095,
+        "rating": 9.6
+    },
+    {
+        "title": "Seven Samurai",
+        "year": 2054,
+        "rating": 9.6
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": 2046,
+        "rating": 9.6
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": 2091,
+        "rating": 9.6
+    },
+    {
+        "title": "City of God",
+        "year": 2002,
+        "rating": 9.6
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": 2098,
+        "rating": 9.6
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "rating": 9.6
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": 2097,
+        "rating": 9.6
+    },
+    {
+        "title": "The Green Mile",
+        "year": 2099,
+        "rating": 9.6
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 2077,
+        "rating": 9.6
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": 2091,
+        "rating": 9.6
+    },
+    {
+        "title": "Back to the Future",
+        "year": 2085,
+        "rating": 9.5
+    },
+    {
+        "title": "Spirited Away",
+        "year": 2001,
+        "rating": 9.6
+    },
+    {
+        "title": "The Pianist",
+        "year": 2002,
+        "rating": 9.5
+    },
+    {
+        "title": "Psycho",
+        "year": 2060,
+        "rating": 9.5
+    },
+    {
+        "title": "Parasite",
+        "year": 2019,
+        "rating": 9.5
+    },
+    {
+        "title": "Léon: The Professional",
+        "year": 2094,
+        "rating": 9.5
+    },
+    {
+        "title": "The Lion King",
+        "year": 2094,
+        "rating": 9.5
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "rating": 9.5
+    },
+    {
+        "title": "American History X",
+        "year": 2098,
+        "rating": 9.5
+    },
+    {
+        "title": "The Departed",
+        "year": 2006,
+        "rating": 9.5
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": 2095,
+        "rating": 9.5
+    },
+    {
+        "title": "The Prestige",
+        "year": 2006,
+        "rating": 9.5
+    },
+    {
+        "title": "Whiplash",
+        "year": 2014,
+        "rating": 9.5
+    },
+    {
+        "title": "Casablanca",
+        "year": 2042,
+        "rating": 9.5
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": 2088,
+        "rating": 9.5
+    },
+    {
+        "title": "Harakiri",
+        "year": 2062,
+        "rating": 9.6
+    },
+    {
+        "title": "The Intouchables",
+        "year": 2011,
+        "rating": 9.5
+    },
+    {
+        "title": "Modern Times",
+        "year": 2036,
+        "rating": 9.5
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": 2068,
+        "rating": 9.5
+    },
+    {
+        "title": "Rear Window",
+        "year": 2054,
+        "rating": 9.5
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": 2088,
+        "rating": 9.5
+    },
+    {
+        "title": "Alien",
+        "year": 2079,
+        "rating": 9.5
+    },
+    {
+        "title": "City Lights",
+        "year": 2031,
+        "rating": 9.5
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": 2079,
+        "rating": 9.5
+    },
+    {
+        "title": "Memento",
+        "year": 2000,
+        "rating": 9.4
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "rating": 9.4
+    },
+    {
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "year": 2081,
+        "rating": 9.4
+    },
+    {
+        "title": "WALL·E",
+        "year": 2008,
+        "rating": 9.4
+    },
+    {
+        "title": "The Lives of Others",
+        "year": 2006,
+        "rating": 9.4
+    },
+    {
+        "title": "Sunset Blvd.",
+        "year": 2050,
+        "rating": 9.4
+    },
+    {
+        "title": "Paths of Glory",
+        "year": 2057,
+        "rating": 9.4
+    },
+    {
+        "title": "The Shining",
+        "year": 2080,
+        "rating": 9.4
+    },
+    {
+        "title": "The Great Dictator",
+        "year": 2040,
+        "rating": 9.4
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "rating": 9.4
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": 2057,
+        "rating": 9.4
+    },
+    {
+        "title": "Aliens",
+        "year": 2086,
+        "rating": 9.4
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "rating": 9.4
+    },
+    {
+        "title": "American Beauty",
+        "year": 2099,
+        "rating": 9.4
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": 2064,
+        "rating": 9.4
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "rating": 9.4
+    },
+    {
+        "title": "Oldboy",
+        "year": 2003,
+        "rating": 9.4
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "rating": 9.3
+    },
+    {
+        "title": "Amadeus",
+        "year": 2084,
+        "rating": 9.4
+    },
+    {
+        "title": "Coco",
+        "year": 2017,
+        "rating": 9.4
+    },
+    {
+        "title": "Toy Story",
+        "year": 2095,
+        "rating": 9.3
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "rating": 9.4
+    },
+    {
+        "title": "Braveheart",
+        "year": 2095,
+        "rating": 9.4
+    },
+    {
+        "title": "The Boat",
+        "year": 2081,
+        "rating": 9.4
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "rating": 9.4
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": 2097,
+        "rating": 9.4
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": 2084,
+        "rating": 9.3
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": 2097,
+        "rating": 9.3
+    },
+    {
+        "title": "Your Name.",
+        "year": 2016,
+        "rating": 9.4
+    },
+    {
+        "title": "3 Idiots",
+        "year": 2009,
+        "rating": 9.4
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": 2052,
+        "rating": 9.3
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "rating": 9.3
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "rating": 9.3
+    },
+    {
+        "title": "High and Low",
+        "year": 2063,
+        "rating": 9.4
+    },
+    {
+        "title": "Capernaum",
+        "year": 2018,
+        "rating": 9.4
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": 2083,
+        "rating": 9.3
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "rating": 9.3
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": 2068,
+        "rating": 9.3
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": 2092,
+        "rating": 9.3
+    },
+    {
+        "title": "Come and See",
+        "year": 2085,
+        "rating": 9.4
+    },
+    {
+        "title": "The Hunt",
+        "year": 2012,
+        "rating": 9.3
+    },
+    {
+        "title": "Citizen Kane",
+        "year": 2041,
+        "rating": 9.3
+    },
+    {
+        "title": "M",
+        "year": 2031,
+        "rating": 9.3
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": 2062,
+        "rating": 9.3
+    },
+    {
+        "title": "North by Northwest",
+        "year": 2059,
+        "rating": 9.3
+    },
+    {
+        "title": "Vertigo",
+        "year": 2058,
+        "rating": 9.3
+    },
+    {
+        "title": "Ikiru",
+        "year": 2052,
+        "rating": 9.3
+    },
+    {
+        "title": "Amélie",
+        "year": 2001,
+        "rating": 9.3
+    },
+    {
+        "title": "The Apartment",
+        "year": 2060,
+        "rating": 9.3
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": 2071,
+        "rating": 9.3
+    },
+    {
+        "title": "Double Indemnity",
+        "year": 2044,
+        "rating": 9.3
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": 2087,
+        "rating": 9.3
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "rating": 9.3
+    },
+    {
+        "title": "Scarface",
+        "year": 2083,
+        "rating": 9.3
+    },
+    {
+        "title": "Hamilton",
+        "year": 2020,
+        "rating": 9.4
+    },
+    {
+        "title": "Incendies",
+        "year": 2010,
+        "rating": 9.3
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": 2062,
+        "rating": 9.3
+    },
+    {
+        "title": "Heat",
+        "year": 2095,
+        "rating": 9.3
+    },
+    {
+        "title": "The Sting",
+        "year": 2073,
+        "rating": 9.3
+    },
+    {
+        "title": "Up",
+        "year": 2009,
+        "rating": 9.3
+    },
+    {
+        "title": "A Separation",
+        "year": 2011,
+        "rating": 9.3
+    },
+    {
+        "title": "Metropolis",
+        "year": 2027,
+        "rating": 9.3
+    },
+    {
+        "title": "Taxi Driver",
+        "year": 2076,
+        "rating": 9.2
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": 2097,
+        "rating": 9.2
+    },
+    {
+        "title": "Die Hard",
+        "year": 2088,
+        "rating": 9.2
+    },
+    {
+        "title": "Snatch",
+        "year": 2000,
+        "rating": 9.2
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 2089,
+        "rating": 9.2
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": 2048,
+        "rating": 9.3
+    },
+    {
+        "title": "Like Stars on Earth",
+        "year": 2007,
+        "rating": 9.3
+    },
+    {
+        "title": "1917",
+        "year": 2019,
+        "rating": 9.2
+    },
+    {
+        "title": "Downfall",
+        "year": 2004,
+        "rating": 9.2
+    },
+    {
+        "title": "Dangal",
+        "year": 2016,
+        "rating": 9.3
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": 2065,
+        "rating": 9.2
+    },
+    {
+        "title": "Batman Begins",
+        "year": 2005,
+        "rating": 9.2
+    },
+    {
+        "title": "The Kid",
+        "year": 2021,
+        "rating": 9.3
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": 2059,
+        "rating": 9.2
+    },
+    {
+        "title": "The Father",
+        "year": 2020,
+        "rating": 9.2
+    },
+    {
+        "title": "All About Eve",
+        "year": 2050,
+        "rating": 9.2
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "rating": 9.2
+    },
+    {
+        "title": "Green Book",
+        "year": 2018,
+        "rating": 9.2
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": 2061,
+        "rating": 9.3
+    },
+    {
+        "title": "Casino",
+        "year": 2095,
+        "rating": 9.2
+    },
+    {
+        "title": "Ran",
+        "year": 2085,
+        "rating": 9.2
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": 2006,
+        "rating": 9.2
+    },
+    {
+        "title": "The Truman Show",
+        "year": 2098,
+        "rating": 9.2
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": 2007,
+        "rating": 9.2
+    },
+    {
+        "title": "Unforgiven",
+        "year": 2092,
+        "rating": 9.2
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": 2099,
+        "rating": 9.2
+    },
+    {
+        "title": "Shutter Island",
+        "year": 2010,
+        "rating": 9.2
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "rating": 9.2
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 2093,
+        "rating": 9.2
+    },
+    {
+        "title": "Yojimbo",
+        "year": 2061,
+        "rating": 9.2
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": 2048,
+        "rating": 9.2
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": 2075,
+        "rating": 9.2
+    },
+    {
+        "title": "The Great Escape",
+        "year": 2063,
+        "rating": 9.2
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "rating": 9.2
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "rating": 9.2
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "rating": 9.2
+    },
+    {
+        "title": "Rashomon",
+        "year": 2050,
+        "rating": 9.2
+    },
+    {
+        "title": "The Thing",
+        "year": 2082,
+        "rating": 9.2
+    },
+    {
+        "title": "Finding Nemo",
+        "year": 2003,
+        "rating": 9.2
+    },
+    {
+        "title": "The Elephant Man",
+        "year": 2080,
+        "rating": 9.2
+    },
+    {
+        "title": "Chinatown",
+        "year": 2074,
+        "rating": 9.2
+    },
+    {
+        "title": "Raging Bull",
+        "year": 2080,
+        "rating": 9.2
+    },
+    {
+        "title": "V for Vendetta",
+        "year": 2005,
+        "rating": 9.2
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": 2039,
+        "rating": 9.2
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": 2098,
+        "rating": 9.2
+    },
+    {
+        "title": "Inside Out",
+        "year": 2015,
+        "rating": 9.2
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": 2054,
+        "rating": 9.2
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "year": 2009,
+        "rating": 9.2
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": 2004,
+        "rating": 9.2
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "rating": 9.1
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": 2057,
+        "rating": 9.2
+    },
+    {
+        "title": "Trainspotting",
+        "year": 2096,
+        "rating": 9.1
+    },
+    {
+        "title": "Prisoners",
+        "year": 2013,
+        "rating": 9.1
+    },
+    {
+        "title": "Warrior",
+        "year": 2011,
+        "rating": 9.2
+    },
+    {
+        "title": "Fargo",
+        "year": 2096,
+        "rating": 9.1
+    },
+    {
+        "title": "Gran Torino",
+        "year": 2008,
+        "rating": 9.1
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": 2088,
+        "rating": 9.1
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "rating": 9.1
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": 2004,
+        "rating": 9.1
+    },
+    {
+        "title": "Children of Heaven",
+        "year": 2097,
+        "rating": 9.2
+    },
+    {
+        "title": "Blade Runner",
+        "year": 2082,
+        "rating": 9.1
+    },
+    {
+        "title": "The Gold Rush",
+        "year": 2025,
+        "rating": 9.1
+    },
+    {
+        "title": "Before Sunrise",
+        "year": 2095,
+        "rating": 9.1
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "rating": 9.1
+    },
+    {
+        "title": "Klaus",
+        "year": 2019,
+        "rating": 9.2
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "rating": 9.1
+    },
+    {
+        "title": "On the Waterfront",
+        "year": 2054,
+        "rating": 9.1
+    },
+    {
+        "title": "Ben-Hur",
+        "year": 2059,
+        "rating": 9.1
+    },
+    {
+        "title": "Gone Girl",
+        "year": 2014,
+        "rating": 9.1
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "rating": 9.1
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": 2057,
+        "rating": 9.1
+    },
+    {
+        "title": "The General",
+        "year": 2026,
+        "rating": 9.1
+    },
+    {
+        "title": "The Third Man",
+        "year": 2049,
+        "rating": 9.1
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": 2093,
+        "rating": 9.1
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": 2078,
+        "rating": 9.1
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": 2075,
+        "rating": 9.1
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": 2016,
+        "rating": 9.1
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": 2053,
+        "rating": 9.2
+    },
+    {
+        "title": "Memories of Murder",
+        "year": 2003,
+        "rating": 9.1
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": 2024,
+        "rating": 9.2
+    },
+    {
+        "title": "Wild Tales",
+        "year": 2014,
+        "rating": 9.1
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": 2039,
+        "rating": 9.1
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "rating": 9.1
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": 2057,
+        "rating": 9.1
+    },
+    {
+        "title": "Mary and Max",
+        "year": 2009,
+        "rating": 9.1
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "rating": 9.1
+    },
+    {
+        "title": "Room",
+        "year": 2015,
+        "rating": 9.1
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "rating": 9.1
+    },
+    {
+        "title": "Jaws",
+        "year": 2075,
+        "rating": 9.1
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": 2089,
+        "rating": 9.1
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": 2098,
+        "rating": 9.1
+    },
+    {
+        "title": "Tokyo Story",
+        "year": 2053,
+        "rating": 9.2
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": 2028,
+        "rating": 9.2
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": 2004,
+        "rating": 9.1
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "rating": 9.1
+    },
+    {
+        "title": "Rocky",
+        "year": 2076,
+        "rating": 9.1
+    },
+    {
+        "title": "Platoon",
+        "year": 2086,
+        "rating": 9.1
+    },
+    {
+        "title": "Ratatouille",
+        "year": 2007,
+        "rating": 9.1
+    },
+    {
+        "title": "Spotlight",
+        "year": 2015,
+        "rating": 9.1
+    },
+    {
+        "title": "The Terminator",
+        "year": 2084,
+        "rating": 9.1
+    },
+    {
+        "title": "Logan",
+        "year": 2017,
+        "rating": 9.1
+    },
+    {
+        "title": "Stand by Me",
+        "year": 2086,
+        "rating": 9.1
+    },
+    {
+        "title": "Rush",
+        "year": 2013,
+        "rating": 9.1
+    },
+    {
+        "title": "Network",
+        "year": 2076,
+        "rating": 9.1
+    },
+    {
+        "title": "Into the Wild",
+        "year": 2007,
+        "rating": 9.1
+    },
+    {
+        "title": "Before Sunset",
+        "year": 2004,
+        "rating": 9.1
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": 2039,
+        "rating": 9.1
+    },
+    {
+        "title": "Pather Panchali",
+        "year": 2055,
+        "rating": 9.3
+    },
+    {
+        "title": "Groundhog Day",
+        "year": 2093,
+        "rating": 9.1
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": 2046,
+        "rating": 9.1
+    },
+    {
+        "title": "The Exorcist",
+        "year": 2073,
+        "rating": 9.1
+    },
+    {
+        "title": "The Incredibles",
+        "year": 2004,
+        "rating": 9
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": 2042,
+        "rating": 9.2
+    },
+    {
+        "title": "La haine",
+        "year": 2095,
+        "rating": 9.1
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": 2066,
+        "rating": 9.1
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "rating": 9.1
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": 2009,
+        "rating": 9.1
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": 2040,
+        "rating": 9.1
+    },
+    {
+        "title": "Jai Bhim",
+        "year": 2021,
+        "rating": 9.8
+    },
+    {
+        "title": "My Father and My Son",
+        "year": 2005,
+        "rating": 9.2
+    },
+    {
+        "title": "Amores Perros",
+        "year": 2000,
+        "rating": 9.1
+    },
+    {
+        "title": "Rebecca",
+        "year": 2040,
+        "rating": 9.1
+    },
+    {
+        "title": "Cool Hand Luke",
+        "year": 2067,
+        "rating": 9.1
+    },
+    {
+        "title": "The Handmaiden",
+        "year": 2016,
+        "rating": 9.1
+    },
+    {
+        "title": "The 400 Blows",
+        "year": 2059,
+        "rating": 9.1
+    },
+    {
+        "title": "The Sound of Music",
+        "year": 2065,
+        "rating": 9.1
+    },
+    {
+        "title": "It Happened One Night",
+        "year": 2034,
+        "rating": 9.1
+    },
+    {
+        "title": "Persona",
+        "year": 2066,
+        "rating": 9.1
+    },
+    {
+        "title": "Life of Brian",
+        "year": 2079,
+        "rating": 9
+    },
+    {
+        "title": "The Iron Giant",
+        "year": 2099,
+        "rating": 9.1
+    },
+    {
+        "title": "The Help",
+        "year": 2011,
+        "rating": 9.1
+    },
+    {
+        "title": "Dersu Uzala",
+        "year": 2075,
+        "rating": 9.2
+    },
+    {
+        "title": "Aladdin",
+        "year": 2092,
+        "rating": 9
+    },
+    {
+        "title": "Gandhi",
+        "year": 2082,
+        "rating": 9
+    },
+    {
+        "title": "Dances with Wolves",
+        "year": 2090,
+        "rating": 9
+    }
+]

@@ -1,7 +1,7 @@
 #include "main_state.hpp"
 
-MainState::MainState(main_actor::pointer_view ptr, worker_list workers, sender_actor sender, results_collector_actor results_collector)
-    : self(ptr), workers_(workers), sender_(sender), results_collector_(results_collector)
+MainState::MainState(main_actor::pointer_view ptr, worker_list workers, sender_actor sender, results_collector_actor results_collector, printer_actor printer, std::string_view input_file)
+    : self(ptr), workers_(workers), sender_(sender), results_collector_(results_collector), printer_(printer), input_file_(input_file)
 {
     self->println("main actor created");
 }
@@ -12,7 +12,7 @@ main_actor::behavior_type MainState::make_behavior()
         [this](start_atom)
         {
             self->println("main actor received start_atom");
-            int ret = read_input_file("data/test.json");
+            int ret = read_input_file();
             if (ret != EXIT_SUCCESS)
             {
                 self->println("Failed to read input file. Terminating... ");
@@ -20,17 +20,18 @@ main_actor::behavior_type MainState::make_behavior()
                 return;
             }
             self->mail(caf::put_atom_v, workload).send(sender_);
+            self->mail(initial_data_atom_v, workload).send(printer_);
             distribute_workload();
             terminate_workers();
         },
     };
 }
 
-int MainState::read_input_file(std::string_view file_path)
+int MainState::read_input_file()
 {
     self->println("main actor received read_input_file");
     caf::json_reader reader;
-    if (!reader.load_file(file_path.data()))
+    if (!reader.load_file(input_file_.c_str()))
     {
         self->println("*** failed to load the user list: {}\n", reader.get_error());
         return EXIT_FAILURE;

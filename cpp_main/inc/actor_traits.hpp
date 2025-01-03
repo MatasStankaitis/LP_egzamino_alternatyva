@@ -38,7 +38,8 @@ struct receiver_actor_trait
 struct printer_actor_trait
 {
     using signatures = caf::type_list<
-        caf::result<void>(caf::put_atom, movie_list)>;
+        caf::result<void>(caf::put_atom, movie_list),
+        caf::result<void>(initial_data_atom, movie_list)>;
 };
 
 using main_actor = caf::typed_actor<main_actor_trait>;

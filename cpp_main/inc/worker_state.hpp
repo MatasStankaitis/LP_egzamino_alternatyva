@@ -1,6 +1,7 @@
 #include <caf/all.hpp>
 #include "movie.hpp"
 #include "actor_traits.hpp"
+#include <chrono>
 
 class WorkerState
 {
@@ -14,4 +15,6 @@ private:
     results_collector_actor results_collector_;
     int wid;
     worker_actor::pointer_view self;
+    std::chrono::steady_clock::time_point start_time_;
+    bool first_message_ = true;
 };

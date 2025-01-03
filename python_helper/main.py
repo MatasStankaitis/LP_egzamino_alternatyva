@@ -43,17 +43,28 @@ def receiver_proc(host, port, task_queue):
             pass
 
 
-def worker_proc(task_queue, result_queue, worker_id, second_filter_rating=8.0):
+def worker_proc(task_queue, result_queue, worker_id, second_filter_rating=8.9):
     """Darbininkai: compute second function (5+ seconds), filter by second criterion, send to siuntėjas."""
+    start_time = None
+    processed_count = 0
+
     while True:
         print(f"[Worker {worker_id}] Waiting for movie...")
         try:
             movie = task_queue.get(timeout=3.0)
+            if start_time is None:
+                start_time = time.time()
+                print(f"[Worker {worker_id}] Received first movie at {
+                      start_time}")
         except multiprocessing.queues.Empty:
-            print(f"[Worker {worker_id}] Exiting.")
+            if start_time is not None:
+                end_time = time.time()
+                duration_ms = (end_time - start_time) * 1000
+                print(f"[Worker {worker_id}] Processed {
+                      processed_count} movies in {duration_ms:.2f} ms")
             break
 
-        time.sleep(1)
+        processed_count += 1
         movie_str = json.dumps(movie)
         print(f"[Worker {worker_id}] Processing movie: {movie_str}")
         for _ in range(1000):
@@ -94,8 +105,16 @@ def sender_proc(host, port, result_queue):
                 # Build JSON array string manually
                 json_data = "[\n" + ",\n".join(json.dumps(movie)
                                                for movie in filtered_movies) + "\n]\n"
-                s.sendall(json_data.encode("utf-8"))
+                data_bytes = json_data.encode("utf-8")
+                size = len(data_bytes)
+                print(f"[Sender] Sending {size} bytes to C++")
+                s.sendall(size.to_bytes(4, byteorder='little'))
+
+                s.sendall(data_bytes)
                 print(f"[Sender] Sent {len(filtered_movies)} movies to C++")
+            else:
+                print("[Sender] Zero movies filtered.")
+                s.sendall((0).to_bytes(4, byteorder='little'))
             print("[Sender] Exiting.")
             s.close()
             break
@@ -114,7 +133,7 @@ def main():
     )
     receiver_p.start()
 
-    worker_count = 2
+    worker_count = 8
     workers = []
     for i in range(worker_count):
         p = multiprocessing.Process(

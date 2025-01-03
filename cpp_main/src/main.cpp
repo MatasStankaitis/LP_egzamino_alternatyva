@@ -46,14 +46,17 @@ int open_tcp_socket()
     return sockfd;
 }
 
-void caf_main(caf::actor_system &sys)
+void caf_main(caf::actor_system &sys, [[maybe_unused]] const config &cfg)
 {
     int socket_fd = open_tcp_socket();
-    int worker_count = 5;
+    int worker_count = get_or(cfg, "worker-count", 8);
+    std::string input_file = get_or(cfg, "input-file", "data/test4.json");
+    std::string output_file = get_or(cfg, "output-file", "data/output.txt");
+
     worker_list worker_actors;
     scoped_actor self{sys};
 
-    auto printer_actor = sys.spawn(caf::actor_from_state<PrinterState>);
+    auto printer_actor = sys.spawn(caf::actor_from_state<PrinterState>, output_file);
     auto results_collector_actor = sys.spawn(caf::actor_from_state<ResultsCollectorState>, printer_actor, worker_count);
     auto receiver_actor = sys.spawn(caf::actor_from_state<ReceiverState>, results_collector_actor, socket_fd);
     self->mail(start_atom_v).send(receiver_actor);
@@ -64,7 +67,7 @@ void caf_main(caf::actor_system &sys)
     }
     auto sender_actor = sys.spawn(caf::actor_from_state<SenderState>, socket_fd);
 
-    auto main_actor = sys.spawn(caf::actor_from_state<MainState>, worker_actors, sender_actor, results_collector_actor);
+    auto main_actor = sys.spawn(caf::actor_from_state<MainState>, worker_actors, sender_actor, results_collector_actor, printer_actor, input_file);
     self->mail(start_atom_v).send(main_actor);
 }
 

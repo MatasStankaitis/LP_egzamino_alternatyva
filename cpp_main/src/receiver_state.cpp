@@ -61,19 +61,37 @@ receiver_actor::behavior_type ReceiverState::make_behavior()
             close(serv_sockfd); // no longer need the listening socket
             socket_fd_ = accepted_fd;
 
-            // Now receive data in blocking mode for demonstration
-            char buffer[4096];
-            std::string json_str;
-            int bytes = recv(socket_fd_, buffer, sizeof(buffer) - 1, 0);
-            if (bytes <= 0)
+            uint32_t size;
+            uint8_t size_bytes[4];
+            int bytes_read = recv(socket_fd_, size_bytes, 4, 0);
+            if (bytes_read != 4)
             {
-                self->println("Failed to receive data from Python server");
+                self->println("Failed to receive size");
+                return;
+            }
+            std::memcpy(&size, size_bytes, sizeof(size));
+
+            self->println("Expected to receive {} bytes", size);
+
+            if (size == 0)
+            {
+                self->println("Received 0 bytes. Terminating...");
+                self->quit(caf::exit_reason::user_shutdown);
+                return;
+            }
+            // Allocate buffer of exact size
+            std::vector<char> buffer(size + 1);
+            bytes_read = recv(socket_fd_, buffer.data(), size, 0);
+            if (bytes_read <= 0)
+            {
+                self->println("Failed to receive data");
                 return;
             }
 
-            buffer[bytes] = '\0';
-            json_str = buffer;
-            self->println("Received movie over net {}", json_str);
+            buffer[bytes_read] = '\0';
+            std::string json_str(buffer.data());
+            self->println("Received {} bytes: {}", bytes_read, json_str);
+
             movie_list movies;
             caf::json_reader reader;
 
