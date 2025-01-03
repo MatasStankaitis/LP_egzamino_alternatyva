@@ -1,4 +1,4 @@
-Initial data:
+Initial data (entries count: 250):
 ----------------------------------------------------------------------------------------------------
 Title                         Year      Rating    Hash1               Hash2               
 ----------------------------------------------------------------------------------------------------
@@ -254,258 +254,258 @@ Gandhi                        2082      9         0                   0
 Dances with Wolves            2090      9         0                   0                   
 ----------------------------------------------------------------------------------------------------
 
-Filtered movies:
+Filtered movies (entries count: 250):
 ----------------------------------------------------------------------------------------------------
 Title                         Year      Rating    Hash1               Hash2               
 ----------------------------------------------------------------------------------------------------
-Dersu Uzala                   2075      9.2       6252000000          3373665831          
-Dances with Wolves            2090      9         6297000000          3063615104          
-Persona                       2066      9.1       6225000000          3208970302          
 Gandhi                        2082      9         6273000000          3547260434          
+Dances with Wolves            2090      9         6297000000          3063615104          
 Aladdin                       2092      9         6303000000          3155439376          
-The Help                      2011      9.1       6060000000          3869969465          
-The Handmaiden                2016      9.1       6075000000          13843028            
-Life of Brian                 2079      9         6264000000          1081490447          
+Dersu Uzala                   2075      9.2       6252000000          3373665831          
 The Iron Giant                2099      9.1       6324000000          246090830           
+The Help                      2011      9.1       6060000000          3869969465          
+Life of Brian                 2079      9         6264000000          1081490447          
 It Happened One Night         2034      9.1       6129000000          539440534           
-My Father and My Son          2005      9.2       6042000000          2112188150          
-The 400 Blows                 2059      9.1       6204000000          1858464325          
 The Sound of Music            2065      9.1       6222000000          2900708689          
+Persona                       2066      9.1       6225000000          3208970302          
+The 400 Blows                 2059      9.1       6204000000          1858464325          
+The Handmaiden                2016      9.1       6075000000          13843028            
 Cool Hand Luke                2067      9.1       6228000000          1274971210          
-Pirates of the Caribbean: ... 2003      9.1       6036000000          1149498997          
-Amores Perros                 2000      9.1       6027000000          1730171026          
 Rebecca                       2040      9.1       6147000000          3415135712          
+Amores Perros                 2000      9.1       6027000000          1730171026          
+My Father and My Son          2005      9.2       6042000000          2112188150          
 Jai Bhim                      2021      9.8       6090000000          3386327114          
-The Incredibles               2004      9         6039000000          1044943160          
-Hachi: A Dog's Tale           2009      9.1       6054000000          3860115077          
 The Grapes of Wrath           2040      9.1       6147000000          3991341709          
-The Battle of Algiers         2066      9.1       6225000000          110317823           
-Pather Panchali               2055      9.3       6192000000          1764798720          
-To Be or Not to Be            2042      9.2       6153000000          1515982700          
+Hachi: A Dog's Tale           2009      9.1       6054000000          3860115077          
+Pirates of the Caribbean: ... 2003      9.1       6036000000          1149498997          
 La haine                      2095      9.1       6312000000          1384012708          
-The Exorcist                  2073      9.1       6246000000          2123908887          
-Network                       2076      9.1       6255000000          2584570628          
-Groundhog Day                 2093      9.1       6306000000          1880783474          
+The Battle of Algiers         2066      9.1       6225000000          110317823           
+To Be or Not to Be            2042      9.2       6153000000          1515982700          
+The Incredibles               2004      9         6039000000          1044943160          
 The Best Years of Our Lives   2046      9.1       6165000000          4225249103          
-The Wizard of Oz              2039      9.1       6144000000          3407293571          
-The Terminator                2084      9.1       6279000000          758974349           
-Into the Wild                 2007      9.1       6048000000          716080919           
+The Exorcist                  2073      9.1       6246000000          2123908887          
+Groundhog Day                 2093      9.1       6306000000          1880783474          
+Pather Panchali               2055      9.3       6192000000          1764798720          
 Before Sunset                 2004      9.1       6039000000          1045068759          
-Rush                          2013      9.1       6066000000          2942773710          
-Rocky                         2076      9.1       6255000000          3461827766          
-Logan                         2017      9.1       6078000000          4157179813          
+The Wizard of Oz              2039      9.1       6144000000          3407293571          
+Into the Wild                 2007      9.1       6048000000          716080919           
+Network                       2076      9.1       6255000000          2584570628          
 Stand by Me                   2086      9.1       6285000000          963562072           
+Rush                          2013      9.1       6066000000          2942773710          
+Logan                         2017      9.1       6078000000          4157179813          
+The Terminator                2084      9.1       6279000000          758974349           
 Spotlight                     2015      9.1       6072000000          3461446366          
-Tokyo Story                   2053      9.2       6186000000          1482488692          
-Platoon                       2086      9.1       6285000000          467377131           
 Ratatouille                   2007      9.1       6048000000          1187212666          
+Platoon                       2086      9.1       6285000000          467377131           
+Rocky                         2076      9.1       6255000000          3461827766          
 Ford v Ferrari                2019      9.1       6084000000          2593890154          
-The Passion of Joan of Arc    2028      9.2       6111000000          2958120802          
-Monsters, Inc.                2001      9.1       6030000000          386215564           
 Hotel Rwanda                  2004      9.1       6039000000          1939152075          
+The Passion of Joan of Arc    2028      9.2       6111000000          2958120802          
+Tokyo Story                   2053      9.2       6186000000          1482488692          
 The Big Lebowski              2098      9.1       6321000000          1453927573          
-Jaws                          2075      9.1       6252000000          3651301170          
-The Seventh Seal              2057      9.1       6198000000          2955910915          
 Dead Poets Society            2089      9.1       6294000000          2173997238          
+Jaws                          2075      9.1       6252000000          3651301170          
+Monsters, Inc.                2001      9.1       6030000000          386215564           
 Room                          2015      9.1       6072000000          960837426           
-Mary and Max                  2009      9.1       6054000000          400172958           
-Sherlock Jr.                  2024      9.2       6099000000          2159073982          
 How to Train Your Dragon      2010      9.1       6057000000          597487574           
+Mary and Max                  2009      9.1       6054000000          400172958           
+The Seventh Seal              2057      9.1       6198000000          2955910915          
 Mad Max: Fury Road            2015      9.1       6072000000          3695253185          
 Wild Tales                    2014      9.1       6069000000          4276712027          
-Barry Lyndon                  2075      9.1       6252000000          1008509354          
 Mr. Smith Goes to Washington  2039      9.1       6144000000          2690133525          
+Sherlock Jr.                  2024      9.2       6099000000          2159073982          
 Memories of Murder            2003      9.1       6036000000          1496486789          
 Hacksaw Ridge                 2016      9.1       6075000000          674979189           
-The General                   2026      9.1       6105000000          3778839988          
 The Wages of Fear             2053      9.2       6186000000          2286901324          
 The Deer Hunter               2078      9.1       6261000000          1202158719          
-Ben-Hur                       2059      9.1       6204000000          5640262             
+Barry Lyndon                  2075      9.1       6252000000          1008509354          
 The Third Man                 2049      9.1       6174000000          491179133           
 In the Name of the Father     2093      9.1       6306000000          924246140           
 Wild Strawberries             2057      9.1       6198000000          1338088199          
-12 Years a Slave              2013      9.1       6066000000          3705987357          
+The General                   2026      9.1       6105000000          3778839988          
 Gone Girl                     2014      9.1       6069000000          2619353228          
 The Grand Budapest Hotel      2014      9.1       6069000000          1238507797          
 On the Waterfront             2054      9.1       6189000000          4086251265          
-Children of Heaven            2097      9.2       6318000000          3543233704          
+Ben-Hur                       2059      9.1       6204000000          5640262             
 Klaus                         2019      9.2       6084000000          1514140651          
 Harry Potter and the Death... 2011      9.1       6060000000          1249356321          
 Before Sunrise                2095      9.1       6312000000          2949370291          
-Gran Torino                   2008      9.1       6051000000          1645948113          
+12 Years a Slave              2013      9.1       6066000000          3705987357          
 Blade Runner                  2082      9.1       6273000000          2333854287          
 The Gold Rush                 2025      9.1       6102000000          751899780           
 Million Dollar Baby           2004      9.1       6039000000          1512369989          
-Trainspotting                 2096      9.1       6315000000          4209557008          
+Children of Heaven            2097      9.2       6318000000          3543233704          
 My Neighbor Totoro            2088      9.1       6291000000          2634647204          
 Catch Me If You Can           2002      9.1       6033000000          3329838329          
 Fargo                         2096      9.1       6315000000          4146736129          
-The Secret in Their Eyes      2009      9.2       6054000000          618056309           
+Gran Torino                   2008      9.1       6051000000          1645948113          
 Prisoners                     2013      9.1       6066000000          858078515           
 Warrior                       2011      9.2       6060000000          3337294122          
 The Bridge on the River Kwai  2057      9.2       6198000000          2531955837          
-Howl's Moving Castle          2004      9.2       6039000000          2496473503          
-Gone with the Wind            2039      9.2       6144000000          1958900029          
+Trainspotting                 2096      9.1       6315000000          4209557008          
 Three Billboards Outside E... 2017      9.1       6078000000          363173792           
+Howl's Moving Castle          2004      9.2       6039000000          2496473503          
 Dial M for Murder             2054      9.2       6189000000          76433219            
-Lock, Stock and Two Smokin... 2098      9.2       6321000000          3085816015          
-The Elephant Man              2080      9.2       6267000000          1559190025          
+The Secret in Their Eyes      2009      9.2       6054000000          618056309           
 Inside Out                    2015      9.2       6072000000          106236106           
+Lock, Stock and Two Smokin... 2098      9.2       6321000000          3085816015          
 V for Vendetta                2005      9.2       6042000000          2741682251          
-Chinatown                     2074      9.2       6249000000          2130051134          
+Gone with the Wind            2039      9.2       6144000000          1958900029          
 Raging Bull                   2080      9.2       6267000000          1292169530          
-Kill Bill: Vol. 1             2003      9.2       6036000000          3581889165          
+Chinatown                     2074      9.2       6249000000          2130051134          
 Finding Nemo                  2003      9.2       6036000000          814195999           
-Rashomon                      2050      9.2       6177000000          3940597960          
+The Elephant Man              2080      9.2       6267000000          1559190025          
 The Thing                     2082      9.2       6273000000          4077870882          
-Monty Python and the Holy ... 2075      9.2       6252000000          1446240880          
+Rashomon                      2050      9.2       6177000000          3940597960          
 Spider-Man: No Way Home       2021      9.2       6090000000          801452204           
-The Great Escape              2063      9.2       6216000000          1553527393          
+Kill Bill: Vol. 1             2003      9.2       6036000000          3581889165          
 No Country for Old Men        2007      9.2       6048000000          2124004496          
-A Beautiful Mind              2001      9.2       6030000000          166419149           
 The Treasure of the Sierra... 2048      9.2       6171000000          2281412002          
-Jurassic Park                 2093      9.2       6306000000          1542591149          
+The Great Escape              2063      9.2       6216000000          1553527393          
+Monty Python and the Holy ... 2075      9.2       6252000000          1446240880          
 Yojimbo                       2061      9.2       6210000000          3256540768          
-There Will Be Blood           2007      9.2       6048000000          3756441735          
 Shutter Island                2010      9.2       6057000000          1182904548          
-Unforgiven                    2092      9.2       6303000000          121358683           
+A Beautiful Mind              2001      9.2       6030000000          166419149           
+Jurassic Park                 2093      9.2       6306000000          1542591149          
 The Sixth Sense               2099      9.2       6324000000          2254094801          
-Casino                        2095      9.2       6312000000          993845168           
 The Truman Show               2098      9.2       6321000000          916274146           
-Ran                           2085      9.2       6282000000          761902634           
+There Will Be Blood           2007      9.2       6048000000          3756441735          
+Unforgiven                    2092      9.2       6303000000          121358683           
 Pan's Labyrinth               2006      9.2       6045000000          1240478763          
-All About Eve                 2050      9.2       6177000000          3473839936          
+Casino                        2095      9.2       6312000000          993845168           
 Judgment at Nuremberg         2061      9.3       6210000000          1465406258          
+Ran                           2085      9.2       6282000000          761902634           
 Green Book                    2018      9.2       6081000000          1878096844          
-The Wolf of Wall Street       2013      9.2       6066000000          183800283           
-Batman Begins                 2005      9.2       6042000000          2150051726          
+All About Eve                 2050      9.2       6177000000          3473839936          
 The Father                    2020      9.2       6087000000          2378449761          
-The Kid                       2021      9.3       6090000000          2384475222          
-WALL·E                       2008      9.4       6051000000          2140977983          
+The Wolf of Wall Street       2013      9.2       6066000000          183800283           
+Some Like It Hot              2059      9.2       6204000000          843713075           
+Batman Begins                 2005      9.2       6042000000          2150051726          
 The Lives of Others           2006      9.4       6045000000          3343466567          
+WALL·E                       2008      9.4       6051000000          2140977983          
 Django Unchained              2012      9.4       6063000000          135661133           
-Apocalypse Now                2079      9.5       6264000000          2619406692          
-Indiana Jones and the Raid... 2081      9.4       6270000000          130324257           
 Memento                       2000      9.4       6027000000          2332944936          
+Indiana Jones and the Raid... 2081      9.4       6270000000          130324257           
+Apocalypse Now                2079      9.5       6264000000          2619406692          
 Alien                         2079      9.5       6264000000          1959477016          
-Rear Window                   2054      9.5       6189000000          1255022489          
-City Lights                   2031      9.5       6120000000          171465258           
 Cinema Paradiso               2088      9.5       6291000000          3965222572          
-Harakiri                      2062      9.6       6213000000          456157450           
+City Lights                   2031      9.5       6120000000          171465258           
+Rear Window                   2054      9.5       6189000000          1255022489          
 Modern Times                  2036      9.5       6135000000          2354583272          
-Once Upon a Time in the West  2068      9.5       6231000000          3016585439          
 The Intouchables              2011      9.5       6060000000          912173245           
-The Prestige                  2006      9.5       6045000000          2363156836          
+Once Upon a Time in the West  2068      9.5       6231000000          3016585439          
+Harakiri                      2062      9.6       6213000000          456157450           
 Casablanca                    2042      9.5       6153000000          3599918059          
-Grave of the Fireflies        2088      9.5       6291000000          2864832559          
 Whiplash                      2014      9.5       6069000000          1589750096          
-Gladiator                     2000      9.5       6027000000          3150030158          
+Grave of the Fireflies        2088      9.5       6291000000          2864832559          
+The Prestige                  2006      9.5       6045000000          2363156836          
 The Departed                  2006      9.5       6045000000          239878667           
-The Usual Suspects            2095      9.5       6312000000          3394189796          
 American History X            2098      9.5       6321000000          727725851           
-Psycho                        2060      9.5       6207000000          3170137139          
+The Usual Suspects            2095      9.5       6312000000          3394189796          
+Gladiator                     2000      9.5       6027000000          3150030158          
 Léon: The Professional       2094      9.5       6309000000          3814967754          
-The Lion King                 2094      9.5       6309000000          321012755           
 Parasite                      2019      9.5       6084000000          396686605           
-Terminator 2: Judgment Day    2091      9.6       6300000000          2455287510          
+The Lion King                 2094      9.5       6309000000          321012755           
+Psycho                        2060      9.5       6207000000          3170137139          
 Spirited Away                 2001      9.6       6030000000          2122114849          
+Back to the Future            2085      9.5       6282000000          3705292719          
 The Pianist                   2002      9.5       6033000000          4004334637          
-The Lord of the Rings: The... 2001      9.8       6030000000          2696632069          
+The Lord of the Rings: The... 2002      9.8       6033000000          1499094952          
 Forrest Gump                  2094      9.8       6309000000          85419889            
-Fight Club                    2099      9.8       6324000000          2696721859          
 The Good, the Bad and the Ugly2066      9.8       6225000000          3382418986          
-12 Angry Men                  2057      9         6198000000          3903719669          
-Pulp Fiction                  2094      9.9       6309000000          3933183003          
-Schindler's List              2093      9         6306000000          3034258756          
+The Lord of the Rings: The... 2001      9.8       6030000000          2696632069          
+Fight Club                    2099      9.8       6324000000          2696721859          
 The Lord of the Rings: The... 2003      9         6036000000          3248848987          
+Schindler's List              2093      9         6306000000          3034258756          
+Pulp Fiction                  2094      9.9       6309000000          3933183003          
+12 Angry Men                  2057      9         6198000000          3903719669          
+The Dark Knight               2008      9         6051000000          1191151439          
+The Godfather                 2072      9.2       6243000000          1646090492          
+The Godfather Part II         2074      9         6249000000          2868995063          
 Paths of Glory                2057      9.4       6198000000          1913447676          
 The Shawshank Redemption      2094      9.3       6309000000          1877152489          
-Back to the Future            2085      9.5       6282000000          3705292719          
-The Godfather                 2072      9.2       6243000000          1646090492          
-Some Like It Hot              2059      9.2       6204000000          843713075           
-The Godfather Part II         2074      9         6249000000          2868995063          
+The Kid                       2021      9.3       6090000000          2384475222          
 The Matrix                    2099      9.7       6324000000          3813748566          
-The Dark Knight               2008      9         6051000000          1191151439          
 Inception                     2010      9.8       6057000000          3383340067          
 Star Wars: Episode V - The... 2080      9.7       6267000000          3712151869          
-The Lord of the Rings: The... 2002      9.8       6033000000          1499094952          
-One Flew Over the Cuckoo's... 2075      9.7       6252000000          3332502559          
 Seven Samurai                 2054      9.6       6189000000          3387602796          
-Se7en                         2095      9.6       6312000000          1564355926          
 Goodfellas                    2090      9.7       6297000000          2555075758          
-The Silence of the Lambs      2091      9.6       6300000000          3944189477          
-Saving Private Ryan           2098      9.6       6321000000          2156030986          
-City of God                   2002      9.6       6033000000          2933018491          
+One Flew Over the Cuckoo's... 2075      9.7       6252000000          3332502559          
+Se7en                         2095      9.6       6312000000          1564355926          
 It's a Wonderful Life         2046      9.6       6165000000          2012411423          
-Life Is Beautiful             2097      9.6       6318000000          3271983395          
-Star Wars: Episode IV - A ... 2077      9.6       6258000000          253721385           
-The Green Mile                2099      9.6       6324000000          1197291654          
+Saving Private Ryan           2098      9.6       6321000000          2156030986          
+The Silence of the Lambs      2091      9.6       6300000000          3944189477          
+City of God                   2002      9.6       6033000000          2933018491          
 Interstellar                  2014      9.6       6069000000          3416268275          
+Star Wars: Episode IV - A ... 2077      9.6       6258000000          253721385           
+Life Is Beautiful             2097      9.6       6318000000          3271983395          
+The Green Mile                2099      9.6       6324000000          1197291654          
+Terminator 2: Judgment Day    2091      9.6       6300000000          2455287510          
 Sunset Blvd.                  2050      9.4       6177000000          898522937           
-The Great Dictator            2040      9.4       6147000000          4275548352          
 The Shining                   2080      9.4       6267000000          2664898396          
 Witness for the Prosecution   2057      9.4       6198000000          2068190346          
+The Great Dictator            2040      9.4       6147000000          4275548352          
 Avengers: Infinity War        2018      9.4       6081000000          1861382757          
-Spider-Man: Into the Spide... 2018      9.4       6081000000          1416442181          
 Aliens                        2086      9.4       6285000000          2751141473          
 Dr. Strangelove or: How I ... 2064      9.4       6219000000          2564932315          
-Oldboy                        2003      9.4       6036000000          557124531           
+Spider-Man: Into the Spide... 2018      9.4       6081000000          1416442181          
 American Beauty               2099      9.4       6324000000          3401761575          
 The Dark Knight Rises         2012      9.4       6063000000          1677524980          
 Amadeus                       2084      9.4       6279000000          1927947045          
-Toy Story                     2095      9.3       6312000000          1300625289          
-Inglourious Basterds          2009      9.3       6054000000          2397565064          
+Oldboy                        2003      9.4       6036000000          557124531           
 Coco                          2017      9.4       6078000000          2577805504          
+Inglourious Basterds          2009      9.3       6054000000          2397565064          
 Braveheart                    2095      9.4       6312000000          3854864997          
-Avengers: Endgame             2019      9.4       6084000000          2126079169          
+Toy Story                     2095      9.3       6312000000          1300625289          
 The Boat                      2081      9.4       6270000000          1569558360          
-Once Upon a Time in America   2084      9.3       6279000000          1471207031          
 Joker                         2019      9.4       6084000000          2694670549          
-Your Name.                    2016      9.4       6075000000          618993475           
+Once Upon a Time in America   2084      9.3       6279000000          1471207031          
+Avengers: Endgame             2019      9.4       6084000000          2126079169          
+Princess Mononoke             2097      9.4       6318000000          3377701197          
 Good Will Hunting             2097      9.3       6318000000          231413878           
 Singin' in the Rain           2052      9.3       6183000000          2118415179          
-Princess Mononoke             2097      9.4       6318000000          3377701197          
-Toy Story 3                   2010      9.3       6057000000          3352590970          
+Your Name.                    2016      9.4       6075000000          618993475           
+3 Idiots                      2009      9.4       6054000000          2148633615          
 Requiem for a Dream           2000      9.3       6027000000          648533785           
 Capernaum                     2018      9.4       6081000000          3982463487          
-3 Idiots                      2009      9.4       6054000000          2148633615          
-Eternal Sunshine of the Sp... 2004      9.3       6039000000          76493921            
+Toy Story 3                   2010      9.3       6057000000          3352590970          
+High and Low                  2063      9.4       6216000000          1188062239          
 Star Wars: Episode VI - Re... 2083      9.3       6276000000          1265743909          
 Reservoir Dogs                2092      9.3       6303000000          1220738407          
-High and Low                  2063      9.4       6216000000          1188062239          
-The Hunt                      2012      9.3       6063000000          451769747           
+Eternal Sunshine of the Sp... 2004      9.3       6039000000          76493921            
+2001: A Space Odyssey         2068      9.3       6231000000          1196566243          
 Come and See                  2085      9.4       6282000000          3096341859          
 M                             2031      9.3       6120000000          1775791601          
-2001: A Space Odyssey         2068      9.3       6231000000          1196566243          
-North by Northwest            2059      9.3       6204000000          2928988046          
+The Hunt                      2012      9.3       6063000000          451769747           
+Citizen Kane                  2041      9.3       6150000000          3356931467          
 Lawrence of Arabia            2062      9.3       6213000000          1232225951          
 Ikiru                         2052      9.3       6183000000          3675616699          
-Citizen Kane                  2041      9.3       6150000000          3356931467          
-The Apartment                 2060      9.3       6207000000          3506465185          
+North by Northwest            2059      9.3       6204000000          2928988046          
+Vertigo                       2058      9.3       6201000000          311671302           
 Amélie                       2001      9.3       6030000000          3590723419          
 Double Indemnity              2044      9.3       6159000000          1192199694          
-Vertigo                       2058      9.3       6201000000          311671302           
-Top Gun: Maverick             2022      9.3       6093000000          2556636177          
-Full Metal Jacket             2087      9.3       6288000000          2191680052          
-Hamilton                      2020      9.4       6087000000          2310273475          
+The Apartment                 2060      9.3       6207000000          3506465185          
 A Clockwork Orange            2071      9.3       6240000000          3509839475          
-Incendies                     2010      9.3       6057000000          1755216854          
-To Kill a Mockingbird         2062      9.3       6213000000          2374109838          
+Hamilton                      2020      9.4       6087000000          2310273475          
+Full Metal Jacket             2087      9.3       6288000000          2191680052          
+Top Gun: Maverick             2022      9.3       6093000000          2556636177          
 Scarface                      2083      9.3       6276000000          3608155296          
 The Sting                     2073      9.3       6246000000          3882382291          
-Up                            2009      9.3       6054000000          461743382           
-A Separation                  2011      9.3       6060000000          1070511138          
+Incendies                     2010      9.3       6057000000          1755216854          
+To Kill a Mockingbird         2062      9.3       6213000000          2374109838          
 Heat                          2095      9.3       6312000000          2713316022          
 Taxi Driver                   2076      9.2       6255000000          2743782531          
+Up                            2009      9.3       6054000000          461743382           
+A Separation                  2011      9.3       6060000000          1070511138          
+Metropolis                    2027      9.3       6108000000          1870363405          
+Indiana Jones and the Last... 2089      9.2       6294000000          273427660           
 L.A. Confidential             2097      9.2       6318000000          3549418900          
 Die Hard                      2088      9.2       6291000000          2193780857          
-Metropolis                    2027      9.3       6108000000          1870363405          
-Bicycle Thieves               2048      9.3       6171000000          631021176           
-Indiana Jones and the Last... 2089      9.2       6294000000          273427660           
-Like Stars on Earth           2007      9.3       6048000000          1317222142          
 Snatch                        2000      9.2       6027000000          1670850320          
-Dangal                        2016      9.3       6075000000          3195260907          
+Bicycle Thieves               2048      9.3       6171000000          631021176           
 Downfall                      2004      9.2       6039000000          1648228048          
-For a Few Dollars More        2065      9.2       6222000000          726537642           
+Like Stars on Earth           2007      9.3       6048000000          1317222142          
 1917                          2019      9.2       6084000000          1745864548          
+Dangal                        2016      9.3       6075000000          3195260907          
+For a Few Dollars More        2065      9.2       6222000000          726537642           
 ----------------------------------------------------------------------------------------------------

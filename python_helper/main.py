@@ -3,6 +3,8 @@ import multiprocessing
 import json
 import time
 
+SENTINEL_VALUE = {"title": "SENTINEL", "rating": 0.0, "year": 0}
+
 
 def simple_hash(s):
     """Simple hash function using basic arithmetic operations."""
@@ -37,7 +39,8 @@ def receiver_proc(host, port, task_queue):
                     print(f"[Receiver] Processing movie: {movie}")
                     task_queue.put(movie)
                 buffer = ""
-                conn.sendall(b"OK\n")
+                task_queue.put(SENTINEL_VALUE)
+                break
         except json.JSONDecodeError:
             print("[Receiver] Incomplete JSON, waiting for more data")
             pass
@@ -51,7 +54,7 @@ def worker_proc(task_queue, result_queue, worker_id, second_filter_rating=8.9):
     while True:
         print(f"[Worker {worker_id}] Waiting for movie...")
         try:
-            movie = task_queue.get(timeout=3.0)
+            movie = task_queue.get()
             if start_time is None:
                 start_time = time.time()
                 print(f"[Worker {worker_id}] Received first movie at {
@@ -63,7 +66,10 @@ def worker_proc(task_queue, result_queue, worker_id, second_filter_rating=8.9):
                 print(f"[Worker {worker_id}] Processed {
                       processed_count} movies in {duration_ms:.2f} ms")
             break
-
+        if (movie.get("title") == "SENTINEL"):
+            print(f"[Worker {worker_id}] Received SENTINEL, exiting.")
+            task_queue.put(SENTINEL_VALUE)
+            break
         processed_count += 1
         movie_str = json.dumps(movie)
         print(f"[Worker {worker_id}] Processing movie: {movie_str}")
@@ -96,11 +102,11 @@ def sender_proc(host, port, result_queue):
     while True:
         print("[Sender] Waiting for movie...")
         try:
-            movie = result_queue.get(timeout=3.0)
+            movie = result_queue.get()
         except multiprocessing.queues.Empty:
             movie = None
         print(f"[Sender] Got movie: {movie}")
-        if movie is None:
+        if movie.get("title") == "SENTINEL":
             if filtered_movies:
                 # Build JSON array string manually
                 json_data = "[\n" + ",\n".join(json.dumps(movie)
@@ -133,7 +139,7 @@ def main():
     )
     receiver_p.start()
 
-    worker_count = 8
+    worker_count = 4
     workers = []
     for i in range(worker_count):
         p = multiprocessing.Process(
@@ -156,7 +162,8 @@ def main():
         receiver_p.join()
         for w in workers:
             w.join()
-        result_queue.put(None)
+        print("[Main] All workers finished.")
+        result_queue.put(SENTINEL_VALUE)
         sender_p.join()
     except KeyboardInterrupt:
         print("[Main] Shutting down.")
