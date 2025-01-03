@@ -2,51 +2,18 @@
 #include "movie.hpp"
 #include "actor_traits.hpp"
 
-class results_collector_state
+class ResultsCollectorState
 {
 public:
-    results_collector_state(results_collector_actor::pointer_view ptr)
-        : self(ptr)
-    {
-        // nop
-    }
+    ResultsCollectorState(results_collector_actor::pointer_view ptr, printer_actor printer, int worker_count);
+    ~ResultsCollectorState() = default;
 
-    results_collector_actor::behavior_type make_behavior()
-    {
-        return {
-            [this](caf::put_atom, movie data)
-            {
-                self->println("results collector actor received {}", data);
-                results.push_back(data);
-                self->println("results collector actor results size {}", results.size());
-            },
-            [this](finish_atom)
-            {
-                cnt++;
-                if (cnt == 2)
-                {
-                    self->println("results collector actor received both finish_atoms");
-                    std::unordered_map<int, int> id_count;
-                    for (const auto &m : results)
-                    {
-                        id_count[m.id]++;
-                    }
-                    movie_list duplicates;
-                    for (const auto &m : results)
-                    {
-                        if (id_count[m.id] > 1)
-                        {
-                            duplicates.push_back(m);
-                        }
-                    }
-                    results = std::move(duplicates);
-                    self->println("results collector actor filtered results size {}", results.size());
-                }
-            },
-        };
-    }
+    results_collector_actor::behavior_type make_behavior();
 
+private:
     results_collector_actor::pointer_view self;
+    printer_actor printer_;
     movie_list results;
     int cnt = 0;
+    int worker_count_;
 };

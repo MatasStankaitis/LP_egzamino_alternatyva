@@ -7,35 +7,10 @@
 static constexpr int PORT = 9999;
 static constexpr char IP[] = "127.0.0.1";
 
-SenderState::SenderState(sender_actor::pointer_view ptr)
-    : self(ptr)
+SenderState::SenderState(sender_actor::pointer_view ptr, int socket_fd)
+    : self(ptr), socket_fd_(socket_fd)
 {
-    // Create socket
-    sockfd_ = socket(AF_INET, SOCK_STREAM, 0);
-    if (sockfd_ < 0)
-    {
-        self->println("Error creating socket");
-        return;
-    }
-
-    // Connect to Python server
-    struct sockaddr_in serv_addr;
-    serv_addr.sin_family = AF_INET;
-    serv_addr.sin_port = htons(PORT);
-    inet_pton(AF_INET, IP, &serv_addr.sin_addr);
-
-    if (connect(sockfd_, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0)
-    {
-        self->println("Connection Failed");
-        close(sockfd_);
-        return;
-    }
-    self->println("Connected to Python server");
-}
-
-SenderState::~SenderState()
-{
-    close(sockfd_);
+    // nop
 }
 
 sender_actor::behavior_type SenderState::make_behavior()
@@ -45,19 +20,31 @@ sender_actor::behavior_type SenderState::make_behavior()
         {
             writer.reset();
             writer.skip_object_type_annotation(true);
-            std::string json_str;
 
-            for (auto &m : data)
+            // Start JSON array
+            std::string json_str = "[";
+
+            for (size_t i = 0; i < data.size(); ++i)
             {
                 writer.reset();
-                if (!writer.apply(m))
+                if (!writer.apply(data[i]))
                 {
-                    self->println("Failed to serialize movie {}", m.id);
+                    self->println("Failed to serialize movie {}", data[i].id);
                     continue;
                 }
                 json_str += writer.str();
-                json_str += ",\n";
+                // Add comma if not last element
+                if (i < data.size() - 1)
+                {
+                    json_str += ",";
+                }
             }
-            send(sockfd_, json_str.c_str(), json_str.length(), 0);
-        }};
+
+            // Close JSON array
+            json_str += "]\n";
+
+            send(socket_fd_, json_str.c_str(), json_str.length(), 0);
+            self->quit(caf::exit_reason::user_shutdown);
+        },
+    };
 }

@@ -22,9 +22,15 @@ worker_actor::behavior_type WorkerState::make_behavior()
             }
             if (data.year > 2000)
             {
-                data.hash = hash;
+                data.hash1 = hash;
                 self->mail(caf::put_atom_v, data).send(results_collector_);
             }
+        },
+        [this](finish_atom)
+        {
+            self->println("worker {} actor received finish_atom", wid);
+            self->mail(finish_atom_v).send(results_collector_);
+            self->quit(caf::exit_reason::user_shutdown);
         },
     };
 }
