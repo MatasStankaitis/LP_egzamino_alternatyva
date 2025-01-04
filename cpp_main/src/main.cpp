@@ -6,7 +6,28 @@
  *
  * 1 worker procesas - 6000 ms
  * 4 worker procesai - 2500 ms
- * 8 worker procesai - 1500 ms (naudojant 8 fizinius 8 loginius branduolius)
+ * 8 worker procesai - 1500 ms
+ *
+ * Prerequisites:
+ * 1. C++17
+ * 2. CMake
+ * 3. OpenSSL
+ * 4. CAF
+ *
+ * Paleidimas:
+ *
+ * 1. Iš cpp_main direktorijos vykdyti komandas:
+ * 1.1 mkdir build
+ * 1.2 cd build
+ * 1.3 cmake ..
+ * 1.4 make
+ *
+ * 2. Paleisti Python programą iš python_helper direktorijos
+ * python3 main.py [worker procesų skaičius]
+ *
+ * 3. Paleisti C++ programą iš build direktorijos
+ * ./main_program -w [worker procesų skaičius] -i [duomenų failas] -o [rezultatų
+ * failas]
  *
  */
 
