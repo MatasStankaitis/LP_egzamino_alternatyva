@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
- * 1 worker procesas - 4000 ms
- * 4 worker procesai - 1600 ms
+ * 1 worker procesas - 6000 ms
+ * 4 worker procesai - 1900 ms
  */
 
 #include <arpa/inet.h>
@@ -25,7 +25,6 @@ using namespace caf;
 static constexpr int PORT = 9999;
 static constexpr char IP[] = "127.0.0.1";
 
-// The user must set up the socket and connect:
 int open_tcp_socket() {
   int sockfd = socket(AF_INET, SOCK_STREAM, 0);
   if (sockfd < 0) {
@@ -65,8 +64,8 @@ void caf_main(caf::actor_system &sys, [[maybe_unused]] const config &cfg) {
   auto results_collector_actor =
       sys.spawn(caf::actor_from_state<ResultsCollectorState>, printer_actor,
                 worker_count);
-  auto receiver_actor =
-      sys.spawn(caf::actor_from_state<ReceiverState>, results_collector_actor);
+  auto receiver_actor = sys.spawn(caf::actor_from_state<ReceiverState>,
+                                  results_collector_actor, socket_fd);
   self->mail(start_atom_v).send(receiver_actor);
 
   for (int i = 0; i < worker_count; i++) {
