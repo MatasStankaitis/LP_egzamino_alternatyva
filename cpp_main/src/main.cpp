@@ -62,12 +62,12 @@ int open_tcp_socket() {
   serv_addr.sin_family = AF_INET;
   serv_addr.sin_port = htons(PORT);
   if (inet_pton(AF_INET, IP, &serv_addr.sin_addr) <= 0) {
-    std::cerr << "Invalid address/ Address not supported\n";
+    std::cerr << "Invalid address. Address not supported\n";
     close(sockfd);
     return -1;
   }
   if (connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0) {
-    std::cerr << "Connection to Python server failed.\n";
+    std::cerr << "Connection to python server failed.\n";
     close(sockfd);
     return -1;
   }
