@@ -20,6 +20,7 @@ main_actor::behavior_type MainState::make_behavior() {
               caf::term::bold_red,
               "[Main actor] failed to read input file. Terminating... ");
           terminate_workers();
+          self->mail(finish_atom_v).send(sender_);
           self->quit(caf::exit_reason::user_shutdown);
           return;
         }

@@ -2,262 +2,510 @@ Initial data (entries count: 250):
 ----------------------------------------------------------------------------------------------------
 Title                         Year      Rating    Hash1               Hash2               
 ----------------------------------------------------------------------------------------------------
-The Shawshank Redemption      1994      9.3       0                   0                   
-The Godfather                 1972      9.2       0                   0                   
+The Shawshank Redemption      2094      9.3       0                   0                   
+The Godfather                 2072      9.2       0                   0                   
 The Dark Knight               2008      9         0                   0                   
-The Godfather Part II         1974      9         0                   0                   
-12 Angry Men                  1957      9         0                   0                   
-Schindler's List              1993      9         0                   0                   
+The Godfather Part II         2074      9         0                   0                   
+12 Angry Men                  2057      9         0                   0                   
+Schindler's List              2093      9         0                   0                   
 The Lord of the Rings: The... 2003      9         0                   0                   
-Pulp Fiction                  1994      8.9       0                   0                   
-The Lord of the Rings: The... 2001      8.8       0                   0                   
-The Good, the Bad and the Ugly1966      8.8       0                   0                   
-Forrest Gump                  1994      8.8       0                   0                   
-Fight Club                    1999      8.8       0                   0                   
-The Lord of the Rings: The... 2002      8.8       0                   0                   
-Inception                     2010      8.8       0                   0                   
-Star Wars: Episode V - The... 1980      8.7       0                   0                   
-The Matrix                    1999      8.7       0                   0                   
-Goodfellas                    1990      8.7       0                   0                   
-One Flew Over the Cuckoo's... 1975      8.7       0                   0                   
-Se7en                         1995      8.6       0                   0                   
-Seven Samurai                 1954      8.6       0                   0                   
-It's a Wonderful Life         1946      8.6       0                   0                   
-The Silence of the Lambs      1991      8.6       0                   0                   
-City of God                   2002      8.6       0                   0                   
-Saving Private Ryan           1998      8.6       0                   0                   
-Interstellar                  2014      8.6       0                   0                   
-Life Is Beautiful             1997      8.6       0                   0                   
-The Green Mile                1999      8.6       0                   0                   
-Star Wars: Episode IV - A ... 1977      8.6       0                   0                   
-Terminator 2: Judgment Day    1991      8.6       0                   0                   
-Back to the Future            1985      8.5       0                   0                   
-Spirited Away                 2001      8.6       0                   0                   
-The Pianist                   2002      8.5       0                   0                   
-Psycho                        1960      8.5       0                   0                   
-Parasite                      2019      8.5       0                   0                   
-Léon: The Professional       1994      8.5       0                   0                   
-The Lion King                 1994      8.5       0                   0                   
-Gladiator                     2000      8.5       0                   0                   
-American History X            1998      8.5       0                   0                   
-The Departed                  2006      8.5       0                   0                   
-The Usual Suspects            1995      8.5       0                   0                   
-The Prestige                  2006      8.5       0                   0                   
-Whiplash                      2014      8.5       0                   0                   
-Casablanca                    1942      8.5       0                   0                   
-Grave of the Fireflies        1988      8.5       0                   0                   
-Harakiri                      1962      8.6       0                   0                   
-The Intouchables              2011      8.5       0                   0                   
-Modern Times                  1936      8.5       0                   0                   
-Once Upon a Time in the West  1968      8.5       0                   0                   
-Rear Window                   1954      8.5       0                   0                   
-Cinema Paradiso               1988      8.5       0                   0                   
-Alien                         1979      8.5       0                   0                   
-City Lights                   1931      8.5       0                   0                   
-Apocalypse Now                1979      8.5       0                   0                   
-Memento                       2000      8.4       0                   0                   
-Django Unchained              2012      8.4       0                   0                   
-Indiana Jones and the Raid... 1981      8.4       0                   0                   
-WALL·E                       2008      8.4       0                   0                   
-The Lives of Others           2006      8.4       0                   0                   
-Sunset Blvd.                  1950      8.4       0                   0                   
-Paths of Glory                1957      8.4       0                   0                   
-The Shining                   1980      8.4       0                   0                   
-The Great Dictator            1940      8.4       0                   0                   
-Avengers: Infinity War        2018      8.4       0                   0                   
-Witness for the Prosecution   1957      8.4       0                   0                   
-Aliens                        1986      8.4       0                   0                   
-Spider-Man: Into the Spide... 2018      8.4       0                   0                   
-American Beauty               1999      8.4       0                   0                   
-Dr. Strangelove or: How I ... 1964      8.4       0                   0                   
-The Dark Knight Rises         2012      8.4       0                   0                   
-Oldboy                        2003      8.4       0                   0                   
-Inglourious Basterds          2009      8.3       0                   0                   
-Amadeus                       1984      8.4       0                   0                   
-Coco                          2017      8.4       0                   0                   
-Toy Story                     1995      8.3       0                   0                   
-Joker                         2019      8.4       0                   0                   
-Braveheart                    1995      8.4       0                   0                   
-The Boat                      1981      8.4       0                   0                   
-Avengers: Endgame             2019      8.4       0                   0                   
-Princess Mononoke             1997      8.4       0                   0                   
-Once Upon a Time in America   1984      8.3       0                   0                   
-Good Will Hunting             1997      8.3       0                   0                   
-Your Name.                    2016      8.4       0                   0                   
-3 Idiots                      2009      8.4       0                   0                   
-Singin' in the Rain           1952      8.3       0                   0                   
-Requiem for a Dream           2000      8.3       0                   0                   
-Toy Story 3                   2010      8.3       0                   0                   
-High and Low                  1963      8.4       0                   0                   
-Capernaum                     2018      8.4       0                   0                   
-Star Wars: Episode VI - Re... 1983      8.3       0                   0                   
-Eternal Sunshine of the Sp... 2004      8.3       0                   0                   
-2001: A Space Odyssey         1968      8.3       0                   0                   
-Reservoir Dogs                1992      8.3       0                   0                   
-Come and See                  1985      8.4       0                   0                   
-The Hunt                      2012      8.3       0                   0                   
-Citizen Kane                  1941      8.3       0                   0                   
-M                             1931      8.3       0                   0                   
-Lawrence of Arabia            1962      8.3       0                   0                   
-North by Northwest            1959      8.3       0                   0                   
-Vertigo                       1958      8.3       0                   0                   
-Ikiru                         1952      8.3       0                   0                   
-Amélie                       2001      8.3       0                   0                   
-The Apartment                 1960      8.3       0                   0                   
-A Clockwork Orange            1971      8.3       0                   0                   
-Double Indemnity              1944      8.3       0                   0                   
-Full Metal Jacket             1987      8.3       0                   0                   
-Top Gun: Maverick             2022      8.3       0                   0                   
-Scarface                      1983      8.3       0                   0                   
-Hamilton                      2020      8.4       0                   0                   
-Incendies                     2010      8.3       0                   0                   
-To Kill a Mockingbird         1962      8.3       0                   0                   
-Heat                          1995      8.3       0                   0                   
-The Sting                     1973      8.3       0                   0                   
-Up                            2009      8.3       0                   0                   
-A Separation                  2011      8.3       0                   0                   
-Metropolis                    1927      8.3       0                   0                   
-Taxi Driver                   1976      8.2       0                   0                   
-L.A. Confidential             1997      8.2       0                   0                   
-Die Hard                      1988      8.2       0                   0                   
-Snatch                        2000      8.2       0                   0                   
-Indiana Jones and the Last... 1989      8.2       0                   0                   
-Bicycle Thieves               1948      8.3       0                   0                   
-Like Stars on Earth           2007      8.3       0                   0                   
-1917                          2019      8.2       0                   0                   
-Downfall                      2004      8.2       0                   0                   
-Dangal                        2016      8.3       0                   0                   
-For a Few Dollars More        1965      8.2       0                   0                   
-Batman Begins                 2005      8.2       0                   0                   
-The Kid                       1921      8.3       0                   0                   
-Some Like It Hot              1959      8.2       0                   0                   
-The Father                    2020      8.2       0                   0                   
-All About Eve                 1950      8.2       0                   0                   
-The Wolf of Wall Street       2013      8.2       0                   0                   
-Green Book                    2018      8.2       0                   0                   
-Judgment at Nuremberg         1961      8.3       0                   0                   
-Casino                        1995      8.2       0                   0                   
-Ran                           1985      8.2       0                   0                   
-Pan's Labyrinth               2006      8.2       0                   0                   
-The Truman Show               1998      8.2       0                   0                   
-There Will Be Blood           2007      8.2       0                   0                   
-Unforgiven                    1992      8.2       0                   0                   
-The Sixth Sense               1999      8.2       0                   0                   
-Shutter Island                2010      8.2       0                   0                   
-A Beautiful Mind              2001      8.2       0                   0                   
-Jurassic Park                 1993      8.2       0                   0                   
-Yojimbo                       1961      8.2       0                   0                   
-The Treasure of the Sierra... 1948      8.2       0                   0                   
-Monty Python and the Holy ... 1975      8.2       0                   0                   
-The Great Escape              1963      8.2       0                   0                   
-No Country for Old Men        2007      8.2       0                   0                   
-Spider-Man: No Way Home       2021      8.2       0                   0                   
-Kill Bill: Vol. 1             2003      8.2       0                   0                   
-Rashomon                      1950      8.2       0                   0                   
-The Thing                     1982      8.2       0                   0                   
-Finding Nemo                  2003      8.2       0                   0                   
-The Elephant Man              1980      8.2       0                   0                   
-Chinatown                     1974      8.2       0                   0                   
-Raging Bull                   1980      8.2       0                   0                   
-V for Vendetta                2005      8.2       0                   0                   
-Gone with the Wind            1939      8.2       0                   0                   
-Lock, Stock and Two Smokin... 1998      8.2       0                   0                   
-Inside Out                    2015      8.2       0                   0                   
-Dial M for Murder             1954      8.2       0                   0                   
-The Secret in Their Eyes      2009      8.2       0                   0                   
-Howl's Moving Castle          2004      8.2       0                   0                   
-Three Billboards Outside E... 2017      8.1       0                   0                   
-The Bridge on the River Kwai  1957      8.2       0                   0                   
-Trainspotting                 1996      8.1       0                   0                   
-Prisoners                     2013      8.1       0                   0                   
-Warrior                       2011      8.2       0                   0                   
-Fargo                         1996      8.1       0                   0                   
-Gran Torino                   2008      8.1       0                   0                   
-My Neighbor Totoro            1988      8.1       0                   0                   
-Catch Me If You Can           2002      8.1       0                   0                   
-Million Dollar Baby           2004      8.1       0                   0                   
-Children of Heaven            1997      8.2       0                   0                   
-Blade Runner                  1982      8.1       0                   0                   
-The Gold Rush                 1925      8.1       0                   0                   
-Before Sunrise                1995      8.1       0                   0                   
-12 Years a Slave              2013      8.1       0                   0                   
-Klaus                         2019      8.2       0                   0                   
-Harry Potter and the Death... 2011      8.1       0                   0                   
-On the Waterfront             1954      8.1       0                   0                   
-Ben-Hur                       1959      8.1       0                   0                   
-Gone Girl                     2014      8.1       0                   0                   
-The Grand Budapest Hotel      2014      8.1       0                   0                   
-Wild Strawberries             1957      8.1       0                   0                   
-The General                   1926      8.1       0                   0                   
-The Third Man                 1949      8.1       0                   0                   
-In the Name of the Father     1993      8.1       0                   0                   
-The Deer Hunter               1978      8.1       0                   0                   
-Barry Lyndon                  1975      8.1       0                   0                   
-Hacksaw Ridge                 2016      8.1       0                   0                   
-The Wages of Fear             1953      8.2       0                   0                   
-Memories of Murder            2003      8.1       0                   0                   
-Sherlock Jr.                  1924      8.2       0                   0                   
-Wild Tales                    2014      8.1       0                   0                   
-Mr. Smith Goes to Washington  1939      8.1       0                   0                   
-Mad Max: Fury Road            2015      8.1       0                   0                   
-The Seventh Seal              1957      8.1       0                   0                   
-Mary and Max                  2009      8.1       0                   0                   
-How to Train Your Dragon      2010      8.1       0                   0                   
-Room                          2015      8.1       0                   0                   
-Monsters, Inc.                2001      8.1       0                   0                   
-Jaws                          1975      8.1       0                   0                   
-Dead Poets Society            1989      8.1       0                   0                   
-The Big Lebowski              1998      8.1       0                   0                   
-Tokyo Story                   1953      8.2       0                   0                   
-The Passion of Joan of Arc    1928      8.2       0                   0                   
-Hotel Rwanda                  2004      8.1       0                   0                   
-Ford v Ferrari                2019      8.1       0                   0                   
-Rocky                         1976      8.1       0                   0                   
-Platoon                       1986      8.1       0                   0                   
-Ratatouille                   2007      8.1       0                   0                   
-Spotlight                     2015      8.1       0                   0                   
-The Terminator                1984      8.1       0                   0                   
-Logan                         2017      8.1       0                   0                   
-Stand by Me                   1986      8.1       0                   0                   
-Rush                          2013      8.1       0                   0                   
-Network                       1976      8.1       0                   0                   
-Into the Wild                 2007      8.1       0                   0                   
-Before Sunset                 2004      8.1       0                   0                   
-The Wizard of Oz              1939      8.1       0                   0                   
-Pather Panchali               1955      8.3       0                   0                   
-Groundhog Day                 1993      8.1       0                   0                   
-The Best Years of Our Lives   1946      8.1       0                   0                   
-The Exorcist                  1973      8.1       0                   0                   
-The Incredibles               2004      8         0                   0                   
-To Be or Not to Be            1942      8.2       0                   0                   
-La haine                      1995      8.1       0                   0                   
-The Battle of Algiers         1966      8.1       0                   0                   
-Pirates of the Caribbean: ... 2003      8.1       0                   0                   
-Hachi: A Dog's Tale           2009      8.1       0                   0                   
-The Grapes of Wrath           1940      8.1       0                   0                   
-Jai Bhim                      2021      8.8       0                   0                   
-My Father and My Son          2005      8.2       0                   0                   
-Amores Perros                 2000      8.1       0                   0                   
-Rebecca                       1940      8.1       0                   0                   
-Cool Hand Luke                1967      8.1       0                   0                   
-The Handmaiden                2016      8.1       0                   0                   
-The 400 Blows                 1959      8.1       0                   0                   
-The Sound of Music            1965      8.1       0                   0                   
-It Happened One Night         1934      8.1       0                   0                   
-Persona                       1966      8.1       0                   0                   
-Life of Brian                 1979      8         0                   0                   
-The Iron Giant                1999      8.1       0                   0                   
-The Help                      2011      8.1       0                   0                   
-Dersu Uzala                   1975      8.2       0                   0                   
-Aladdin                       1992      8         0                   0                   
-Gandhi                        1982      8         0                   0                   
-Dances with Wolves            1990      8         0                   0                   
+Pulp Fiction                  2094      9.9       0                   0                   
+The Lord of the Rings: The... 2001      9.8       0                   0                   
+The Good, the Bad and the Ugly2066      9.8       0                   0                   
+Forrest Gump                  2094      9.8       0                   0                   
+Fight Club                    2099      9.8       0                   0                   
+The Lord of the Rings: The... 2002      9.8       0                   0                   
+Inception                     2010      9.8       0                   0                   
+Star Wars: Episode V - The... 2080      9.7       0                   0                   
+The Matrix                    2099      9.7       0                   0                   
+Goodfellas                    2090      9.7       0                   0                   
+One Flew Over the Cuckoo's... 2075      9.7       0                   0                   
+Se7en                         2095      9.6       0                   0                   
+Seven Samurai                 2054      9.6       0                   0                   
+It's a Wonderful Life         2046      9.6       0                   0                   
+The Silence of the Lambs      2091      9.6       0                   0                   
+City of God                   2002      9.6       0                   0                   
+Saving Private Ryan           2098      9.6       0                   0                   
+Interstellar                  2014      9.6       0                   0                   
+Life Is Beautiful             2097      9.6       0                   0                   
+The Green Mile                2099      9.6       0                   0                   
+Star Wars: Episode IV - A ... 2077      9.6       0                   0                   
+Terminator 2: Judgment Day    2091      9.6       0                   0                   
+Back to the Future            2085      9.5       0                   0                   
+Spirited Away                 2001      9.6       0                   0                   
+The Pianist                   2002      9.5       0                   0                   
+Psycho                        2060      9.5       0                   0                   
+Parasite                      2019      9.5       0                   0                   
+Léon: The Professional       2094      9.5       0                   0                   
+The Lion King                 2094      9.5       0                   0                   
+Gladiator                     2000      9.5       0                   0                   
+American History X            2098      9.5       0                   0                   
+The Departed                  2006      9.5       0                   0                   
+The Usual Suspects            2095      9.5       0                   0                   
+The Prestige                  2006      9.5       0                   0                   
+Whiplash                      2014      9.5       0                   0                   
+Casablanca                    2042      9.5       0                   0                   
+Grave of the Fireflies        2088      9.5       0                   0                   
+Harakiri                      2062      9.6       0                   0                   
+The Intouchables              2011      9.5       0                   0                   
+Modern Times                  2036      9.5       0                   0                   
+Once Upon a Time in the West  2068      9.5       0                   0                   
+Rear Window                   2054      9.5       0                   0                   
+Cinema Paradiso               2088      9.5       0                   0                   
+Alien                         2079      9.5       0                   0                   
+City Lights                   2031      9.5       0                   0                   
+Apocalypse Now                2079      9.5       0                   0                   
+Memento                       2000      9.4       0                   0                   
+Django Unchained              2012      9.4       0                   0                   
+Indiana Jones and the Raid... 2081      9.4       0                   0                   
+WALL·E                       2008      9.4       0                   0                   
+The Lives of Others           2006      9.4       0                   0                   
+Sunset Blvd.                  2050      9.4       0                   0                   
+Paths of Glory                2057      9.4       0                   0                   
+The Shining                   2080      9.4       0                   0                   
+The Great Dictator            2040      9.4       0                   0                   
+Avengers: Infinity War        2018      9.4       0                   0                   
+Witness for the Prosecution   2057      9.4       0                   0                   
+Aliens                        2086      9.4       0                   0                   
+Spider-Man: Into the Spide... 2018      9.4       0                   0                   
+American Beauty               2099      9.4       0                   0                   
+Dr. Strangelove or: How I ... 2064      9.4       0                   0                   
+The Dark Knight Rises         2012      9.4       0                   0                   
+Oldboy                        2003      9.4       0                   0                   
+Inglourious Basterds          2009      9.3       0                   0                   
+Amadeus                       2084      9.4       0                   0                   
+Coco                          2017      9.4       0                   0                   
+Toy Story                     2095      9.3       0                   0                   
+Joker                         2019      9.4       0                   0                   
+Braveheart                    2095      9.4       0                   0                   
+The Boat                      2081      9.4       0                   0                   
+Avengers: Endgame             2019      9.4       0                   0                   
+Princess Mononoke             2097      9.4       0                   0                   
+Once Upon a Time in America   2084      9.3       0                   0                   
+Good Will Hunting             2097      9.3       0                   0                   
+Your Name.                    2016      9.4       0                   0                   
+3 Idiots                      2009      9.4       0                   0                   
+Singin' in the Rain           2052      9.3       0                   0                   
+Requiem for a Dream           2000      9.3       0                   0                   
+Toy Story 3                   2010      9.3       0                   0                   
+High and Low                  2063      9.4       0                   0                   
+Capernaum                     2018      9.4       0                   0                   
+Star Wars: Episode VI - Re... 2083      9.3       0                   0                   
+Eternal Sunshine of the Sp... 2004      9.3       0                   0                   
+2001: A Space Odyssey         2068      9.3       0                   0                   
+Reservoir Dogs                2092      9.3       0                   0                   
+Come and See                  2085      9.4       0                   0                   
+The Hunt                      2012      9.3       0                   0                   
+Citizen Kane                  2041      9.3       0                   0                   
+M                             2031      9.3       0                   0                   
+Lawrence of Arabia            2062      9.3       0                   0                   
+North by Northwest            2059      9.3       0                   0                   
+Vertigo                       2058      9.3       0                   0                   
+Ikiru                         2052      9.3       0                   0                   
+Amélie                       2001      9.3       0                   0                   
+The Apartment                 2060      9.3       0                   0                   
+A Clockwork Orange            2071      9.3       0                   0                   
+Double Indemnity              2044      9.3       0                   0                   
+Full Metal Jacket             2087      9.3       0                   0                   
+Top Gun: Maverick             2022      9.3       0                   0                   
+Scarface                      2083      9.3       0                   0                   
+Hamilton                      2020      9.4       0                   0                   
+Incendies                     2010      9.3       0                   0                   
+To Kill a Mockingbird         2062      9.3       0                   0                   
+Heat                          2095      9.3       0                   0                   
+The Sting                     2073      9.3       0                   0                   
+Up                            2009      9.3       0                   0                   
+A Separation                  2011      9.3       0                   0                   
+Metropolis                    2027      9.3       0                   0                   
+Taxi Driver                   2076      9.2       0                   0                   
+L.A. Confidential             2097      9.2       0                   0                   
+Die Hard                      2088      9.2       0                   0                   
+Snatch                        2000      9.2       0                   0                   
+Indiana Jones and the Last... 2089      9.2       0                   0                   
+Bicycle Thieves               2048      9.3       0                   0                   
+Like Stars on Earth           2007      9.3       0                   0                   
+1917                          2019      9.2       0                   0                   
+Downfall                      2004      9.2       0                   0                   
+Dangal                        2016      9.3       0                   0                   
+For a Few Dollars More        2065      9.2       0                   0                   
+Batman Begins                 2005      9.2       0                   0                   
+The Kid                       2021      9.3       0                   0                   
+Some Like It Hot              2059      9.2       0                   0                   
+The Father                    2020      9.2       0                   0                   
+All About Eve                 2050      9.2       0                   0                   
+The Wolf of Wall Street       2013      9.2       0                   0                   
+Green Book                    2018      9.2       0                   0                   
+Judgment at Nuremberg         2061      9.3       0                   0                   
+Casino                        2095      9.2       0                   0                   
+Ran                           2085      9.2       0                   0                   
+Pan's Labyrinth               2006      9.2       0                   0                   
+The Truman Show               2098      9.2       0                   0                   
+There Will Be Blood           2007      9.2       0                   0                   
+Unforgiven                    2092      9.2       0                   0                   
+The Sixth Sense               2099      9.2       0                   0                   
+Shutter Island                2010      9.2       0                   0                   
+A Beautiful Mind              2001      9.2       0                   0                   
+Jurassic Park                 2093      9.2       0                   0                   
+Yojimbo                       2061      9.2       0                   0                   
+The Treasure of the Sierra... 2048      9.2       0                   0                   
+Monty Python and the Holy ... 2075      9.2       0                   0                   
+The Great Escape              2063      9.2       0                   0                   
+No Country for Old Men        2007      9.2       0                   0                   
+Spider-Man: No Way Home       2021      9.2       0                   0                   
+Kill Bill: Vol. 1             2003      9.2       0                   0                   
+Rashomon                      2050      9.2       0                   0                   
+The Thing                     2082      9.2       0                   0                   
+Finding Nemo                  2003      9.2       0                   0                   
+The Elephant Man              2080      9.2       0                   0                   
+Chinatown                     2074      9.2       0                   0                   
+Raging Bull                   2080      9.2       0                   0                   
+V for Vendetta                2005      9.2       0                   0                   
+Gone with the Wind            2039      9.2       0                   0                   
+Lock, Stock and Two Smokin... 2098      9.2       0                   0                   
+Inside Out                    2015      9.2       0                   0                   
+Dial M for Murder             2054      9.2       0                   0                   
+The Secret in Their Eyes      2009      9.2       0                   0                   
+Howl's Moving Castle          2004      9.2       0                   0                   
+Three Billboards Outside E... 2017      9.1       0                   0                   
+The Bridge on the River Kwai  2057      9.2       0                   0                   
+Trainspotting                 2096      9.1       0                   0                   
+Prisoners                     2013      9.1       0                   0                   
+Warrior                       2011      9.2       0                   0                   
+Fargo                         2096      9.1       0                   0                   
+Gran Torino                   2008      9.1       0                   0                   
+My Neighbor Totoro            2088      9.1       0                   0                   
+Catch Me If You Can           2002      9.1       0                   0                   
+Million Dollar Baby           2004      9.1       0                   0                   
+Children of Heaven            2097      9.2       0                   0                   
+Blade Runner                  2082      9.1       0                   0                   
+The Gold Rush                 2025      9.1       0                   0                   
+Before Sunrise                2095      9.1       0                   0                   
+12 Years a Slave              2013      9.1       0                   0                   
+Klaus                         2019      9.2       0                   0                   
+Harry Potter and the Death... 2011      9.1       0                   0                   
+On the Waterfront             2054      9.1       0                   0                   
+Ben-Hur                       2059      9.1       0                   0                   
+Gone Girl                     2014      9.1       0                   0                   
+The Grand Budapest Hotel      2014      9.1       0                   0                   
+Wild Strawberries             2057      9.1       0                   0                   
+The General                   2026      9.1       0                   0                   
+The Third Man                 2049      9.1       0                   0                   
+In the Name of the Father     2093      9.1       0                   0                   
+The Deer Hunter               2078      9.1       0                   0                   
+Barry Lyndon                  2075      9.1       0                   0                   
+Hacksaw Ridge                 2016      9.1       0                   0                   
+The Wages of Fear             2053      9.2       0                   0                   
+Memories of Murder            2003      9.1       0                   0                   
+Sherlock Jr.                  2024      9.2       0                   0                   
+Wild Tales                    2014      9.1       0                   0                   
+Mr. Smith Goes to Washington  2039      9.1       0                   0                   
+Mad Max: Fury Road            2015      9.1       0                   0                   
+The Seventh Seal              2057      9.1       0                   0                   
+Mary and Max                  2009      9.1       0                   0                   
+How to Train Your Dragon      2010      9.1       0                   0                   
+Room                          2015      9.1       0                   0                   
+Monsters, Inc.                2001      9.1       0                   0                   
+Jaws                          2075      9.1       0                   0                   
+Dead Poets Society            2089      9.1       0                   0                   
+The Big Lebowski              2098      9.1       0                   0                   
+Tokyo Story                   2053      9.2       0                   0                   
+The Passion of Joan of Arc    2028      9.2       0                   0                   
+Hotel Rwanda                  2004      9.1       0                   0                   
+Ford v Ferrari                2019      9.1       0                   0                   
+Rocky                         2076      9.1       0                   0                   
+Platoon                       2086      9.1       0                   0                   
+Ratatouille                   2007      9.1       0                   0                   
+Spotlight                     2015      9.1       0                   0                   
+The Terminator                2084      9.1       0                   0                   
+Logan                         2017      9.1       0                   0                   
+Stand by Me                   2086      9.1       0                   0                   
+Rush                          2013      9.1       0                   0                   
+Network                       2076      9.1       0                   0                   
+Into the Wild                 2007      9.1       0                   0                   
+Before Sunset                 2004      9.1       0                   0                   
+The Wizard of Oz              2039      9.1       0                   0                   
+Pather Panchali               2055      9.3       0                   0                   
+Groundhog Day                 2093      9.1       0                   0                   
+The Best Years of Our Lives   2046      9.1       0                   0                   
+The Exorcist                  2073      9.1       0                   0                   
+The Incredibles               2004      9         0                   0                   
+To Be or Not to Be            2042      9.2       0                   0                   
+La haine                      2095      9.1       0                   0                   
+The Battle of Algiers         2066      9.1       0                   0                   
+Pirates of the Caribbean: ... 2003      9.1       0                   0                   
+Hachi: A Dog's Tale           2009      9.1       0                   0                   
+The Grapes of Wrath           2040      9.1       0                   0                   
+Jai Bhim                      2021      9.8       0                   0                   
+My Father and My Son          2005      9.2       0                   0                   
+Amores Perros                 2000      9.1       0                   0                   
+Rebecca                       2040      9.1       0                   0                   
+Cool Hand Luke                2067      9.1       0                   0                   
+The Handmaiden                2016      9.1       0                   0                   
+The 400 Blows                 2059      9.1       0                   0                   
+The Sound of Music            2065      9.1       0                   0                   
+It Happened One Night         2034      9.1       0                   0                   
+Persona                       2066      9.1       0                   0                   
+Life of Brian                 2079      9         0                   0                   
+The Iron Giant                2099      9.1       0                   0                   
+The Help                      2011      9.1       0                   0                   
+Dersu Uzala                   2075      9.2       0                   0                   
+Aladdin                       2092      9         0                   0                   
+Gandhi                        2082      9         0                   0                   
+Dances with Wolves            2090      9         0                   0                   
 ----------------------------------------------------------------------------------------------------
 
-Filtered movies (entries count: 2):
+Filtered movies (entries count: 250):
 ----------------------------------------------------------------------------------------------------
 Title                         Year      Rating    Hash1               Hash2               
 ----------------------------------------------------------------------------------------------------
+Dances with Wolves            2090      9         14693000000         3063615104          
+The Help                      2011      9.1       14140000000         3869969465          
+It Happened One Night         2034      9.1       14301000000         539440534           
+Dersu Uzala                   2075      9.2       14588000000         3373665831          
+The Handmaiden                2016      9.1       14175000000         13843028            
+Aladdin                       2092      9         14707000000         3155439376          
+Persona                       2066      9.1       14525000000         3208970302          
+Life of Brian                 2079      9         14616000000         1081490447          
+The 400 Blows                 2059      9.1       14476000000         1858464325          
+The Grapes of Wrath           2040      9.1       14343000000         3991341709          
+Cool Hand Luke                2067      9.1       14532000000         1274971210          
+Amores Perros                 2000      9.1       14063000000         1730171026          
+Gandhi                        2082      9         14637000000         3547260434          
+La haine                      2095      9.1       14728000000         1384012708          
+The Exorcist                  2073      9.1       14574000000         2123908887          
+The Iron Giant                2099      9.1       14756000000         246090830           
+The Sound of Music            2065      9.1       14518000000         2900708689          
+My Father and My Son          2005      9.2       14098000000         2112188150          
+Jai Bhim                      2021      9.8       14210000000         3386327114          
+The Wizard of Oz              2039      9.1       14336000000         3407293571          
+Rebecca                       2040      9.1       14343000000         3415135712          
+Hachi: A Dog's Tale           2009      9.1       14126000000         3860115077          
+The Battle of Algiers         2066      9.1       14525000000         110317823           
+Rush                          2013      9.1       14154000000         2942773710          
+Pirates of the Caribbean: ... 2003      9.1       14084000000         1149498997          
+To Be or Not to Be            2042      9.2       14357000000         1515982700          
+The Best Years of Our Lives   2046      9.1       14385000000         4225249103          
+Logan                         2017      9.1       14182000000         4157179813          
+The Incredibles               2004      9         14091000000         1044943160          
+Groundhog Day                 2093      9.1       14714000000         1880783474          
+Into the Wild                 2007      9.1       14112000000         716080919           
+Platoon                       2086      9.1       14665000000         467377131           
+Pather Panchali               2055      9.3       14448000000         1764798720          
+The Terminator                2084      9.1       14651000000         758974349           
+Before Sunset                 2004      9.1       14091000000         1045068759          
+Stand by Me                   2086      9.1       14665000000         963562072           
+Network                       2076      9.1       14595000000         2584570628          
+Spotlight                     2015      9.1       14168000000         3461446366          
+Tokyo Story                   2053      9.2       14434000000         1482488692          
+Ratatouille                   2007      9.1       14112000000         1187212666          
+Rocky                         2076      9.1       14595000000         3461827766          
+Ford v Ferrari                2019      9.1       14196000000         2593890154          
+How to Train Your Dragon      2010      9.1       14133000000         597487574           
+Dead Poets Society            2089      9.1       14686000000         2173997238          
+The Passion of Joan of Arc    2028      9.2       14259000000         2958120802          
+Mr. Smith Goes to Washington  2039      9.1       14336000000         2690133525          
+Hotel Rwanda                  2004      9.1       14091000000         1939152075          
+The Big Lebowski              2098      9.1       14749000000         1453927573          
+Room                          2015      9.1       14168000000         960837426           
+Wild Tales                    2014      9.1       14161000000         4276712027          
+Monsters, Inc.                2001      9.1       14070000000         386215564           
+Jaws                          2075      9.1       14588000000         3651301170          
+Hacksaw Ridge                 2016      9.1       14175000000         674979189           
+Mad Max: Fury Road            2015      9.1       14168000000         3695253185          
+Mary and Max                  2009      9.1       14126000000         400172958           
+Memories of Murder            2003      9.1       14084000000         1496486789          
+Sherlock Jr.                  2024      9.2       14231000000         2159073982          
+Barry Lyndon                  2075      9.1       14588000000         1008509354          
+The Seventh Seal              2057      9.1       14462000000         2955910915          
+The Wages of Fear             2053      9.2       14434000000         2286901324          
+Wild Strawberries             2057      9.1       14462000000         1338088199          
+The General                   2026      9.1       14245000000         3778839988          
+The Deer Hunter               2078      9.1       14609000000         1202158719          
+The Third Man                 2049      9.1       14406000000         491179133           
+On the Waterfront             2054      9.1       14441000000         4086251265          
+Gone Girl                     2014      9.1       14161000000         2619353228          
+In the Name of the Father     2093      9.1       14714000000         924246140           
+Ben-Hur                       2059      9.1       14476000000         5640262             
+Before Sunrise                2095      9.1       14728000000         2949370291          
+Million Dollar Baby           2004      9.1       14091000000         1512369989          
+The Grand Budapest Hotel      2014      9.1       14161000000         1238507797          
+12 Years a Slave              2013      9.1       14154000000         3705987357          
+Children of Heaven            2097      9.2       14742000000         3543233704          
+Fargo                         2096      9.1       14735000000         4146736129          
+Harry Potter and the Death... 2011      9.1       14140000000         1249356321          
+Klaus                         2019      9.2       14196000000         1514140651          
+The Bridge on the River Kwai  2057      9.2       14462000000         2531955837          
+Dial M for Murder             2054      9.2       14441000000         76433219            
+My Neighbor Totoro            2088      9.1       14679000000         2634647204          
+Blade Runner                  2082      9.1       14637000000         2333854287          
+V for Vendetta                2005      9.2       14098000000         2741682251          
+The Gold Rush                 2025      9.1       14238000000         751899780           
+Catch Me If You Can           2002      9.1       14077000000         3329838329          
+Gran Torino                   2008      9.1       14119000000         1645948113          
+Finding Nemo                  2003      9.2       14084000000         814195999           
+Trainspotting                 2096      9.1       14735000000         4209557008          
+Warrior                       2011      9.2       14140000000         3337294122          
+Prisoners                     2013      9.1       14154000000         858078515           
+Kill Bill: Vol. 1             2003      9.2       14084000000         3581889165          
+The Great Escape              2063      9.2       14504000000         1553527393          
+Three Billboards Outside E... 2017      9.1       14182000000         363173792           
+Howl's Moving Castle          2004      9.2       14091000000         2496473503          
+The Secret in Their Eyes      2009      9.2       14126000000         618056309           
+Lock, Stock and Two Smokin... 2098      9.2       14749000000         3085816015          
+Inside Out                    2015      9.2       14168000000         106236106           
+Gone with the Wind            2039      9.2       14336000000         1958900029          
+The Elephant Man              2080      9.2       14623000000         1559190025          
+Raging Bull                   2080      9.2       14623000000         1292169530          
+Chinatown                     2074      9.2       14581000000         2130051134          
+Spider-Man: No Way Home       2021      9.2       14210000000         801452204           
+Rashomon                      2050      9.2       14413000000         3940597960          
+Monty Python and the Holy ... 2075      9.2       14588000000         1446240880          
+The Treasure of the Sierra... 2048      9.2       14399000000         2281412002          
+The Thing                     2082      9.2       14637000000         4077870882          
+No Country for Old Men        2007      9.2       14112000000         2124004496          
+Yojimbo                       2061      9.2       14490000000         3256540768          
+A Beautiful Mind              2001      9.2       14070000000         166419149           
+Jurassic Park                 2093      9.2       14714000000         1542591149          
+Shutter Island                2010      9.2       14133000000         1182904548          
+The Sixth Sense               2099      9.2       14756000000         2254094801          
+There Will Be Blood           2007      9.2       14112000000         3756441735          
+Unforgiven                    2092      9.2       14707000000         121358683           
+Pan's Labyrinth               2006      9.2       14105000000         1240478763          
+The Truman Show               2098      9.2       14749000000         916274146           
+Casino                        2095      9.2       14728000000         993845168           
+Ran                           2085      9.2       14658000000         761902634           
+Green Book                    2018      9.2       14189000000         1878096844          
+Judgment at Nuremberg         2061      9.3       14490000000         1465406258          
+All About Eve                 2050      9.2       14413000000         3473839936          
+Some Like It Hot              2059      9.2       14476000000         843713075           
+The Wolf of Wall Street       2013      9.2       14154000000         183800283           
+The Father                    2020      9.2       14203000000         2378449761          
+Batman Begins                 2005      9.2       14098000000         2150051726          
+The Lives of Others           2006      9.4       14105000000         3343466567          
+Sunset Blvd.                  2050      9.4       14413000000         898522937           
+Apocalypse Now                2079      9.5       14616000000         2619406692          
+Indiana Jones and the Raid... 2081      9.4       14630000000         130324257           
+Memento                       2000      9.4       14063000000         2332944936          
+Django Unchained              2012      9.4       14147000000         135661133           
+City Lights                   2031      9.5       14280000000         171465258           
+Rear Window                   2054      9.5       14441000000         1255022489          
+Cinema Paradiso               2088      9.5       14679000000         3965222572          
+Alien                         2079      9.5       14616000000         1959477016          
+Once Upon a Time in the West  2068      9.5       14539000000         3016585439          
+Harakiri                      2062      9.6       14497000000         456157450           
+The Intouchables              2011      9.5       14140000000         912173245           
+Modern Times                  2036      9.5       14315000000         2354583272          
+Grave of the Fireflies        2088      9.5       14679000000         2864832559          
+Whiplash                      2014      9.5       14161000000         1589750096          
+The Prestige                  2006      9.5       14105000000         2363156836          
+Casablanca                    2042      9.5       14357000000         3599918059          
+The Usual Suspects            2095      9.5       14728000000         3394189796          
+Gladiator                     2000      9.5       14063000000         3150030158          
+American History X            2098      9.5       14749000000         727725851           
+The Departed                  2006      9.5       14105000000         239878667           
+The Lion King                 2094      9.5       14721000000         321012755           
+Psycho                        2060      9.5       14483000000         3170137139          
+Parasite                      2019      9.5       14196000000         396686605           
+Léon: The Professional       2094      9.5       14721000000         3814967754          
+Back to the Future            2085      9.5       14658000000         3705292719          
+The Pianist                   2002      9.5       14077000000         4004334637          
+Terminator 2: Judgment Day    2091      9.6       14700000000         2455287510          
+The Lord of the Rings: The... 2002      9.8       14077000000         1499094952          
+The Good, the Bad and the Ugly2066      9.8       14525000000         3382418986          
+Fight Club                    2099      9.8       14756000000         2696721859          
+Forrest Gump                  2094      9.8       14721000000         85419889            
+The Lord of the Rings: The... 2001      9.8       14070000000         2696632069          
+Schindler's List              2093      9         14714000000         3034258756          
+Pulp Fiction                  2094      9.9       14721000000         3933183003          
 The Lord of the Rings: The... 2003      9         14084000000         3248848987          
+12 Angry Men                  2057      9         14462000000         3903719669          
+The Godfather                 2072      9.2       14567000000         1646090492          
+Spirited Away                 2001      9.6       14070000000         2122114849          
+Paths of Glory                2057      9.4       14462000000         1913447676          
+The Shawshank Redemption      2094      9.3       14721000000         1877152489          
+The Kid                       2021      9.3       14210000000         2384475222          
+The Godfather Part II         2074      9         14581000000         2868995063          
 The Dark Knight               2008      9         14119000000         1191151439          
+Star Wars: Episode V - The... 2080      9.7       14623000000         3712151869          
+The Matrix                    2099      9.7       14756000000         3813748566          
+Inception                     2010      9.8       14133000000         3383340067          
+Se7en                         2095      9.6       14728000000         1564355926          
+Goodfellas                    2090      9.7       14693000000         2555075758          
+Seven Samurai                 2054      9.6       14441000000         3387602796          
+One Flew Over the Cuckoo's... 2075      9.7       14588000000         3332502559          
+City of God                   2002      9.6       14077000000         2933018491          
+It's a Wonderful Life         2046      9.6       14385000000         2012411423          
+Saving Private Ryan           2098      9.6       14749000000         2156030986          
+The Silence of the Lambs      2091      9.6       14700000000         3944189477          
+The Green Mile                2099      9.6       14756000000         1197291654          
+Interstellar                  2014      9.6       14161000000         3416268275          
+Star Wars: Episode IV - A ... 2077      9.6       14602000000         253721385           
+Life Is Beautiful             2097      9.6       14742000000         3271983395          
+WALL·E                       2008      9.4       14119000000         2140977983          
+Avengers: Infinity War        2018      9.4       14189000000         1861382757          
+The Great Dictator            2040      9.4       14343000000         4275548352          
+Witness for the Prosecution   2057      9.4       14462000000         2068190346          
+The Shining                   2080      9.4       14623000000         2664898396          
+American Beauty               2099      9.4       14756000000         3401761575          
+Spider-Man: Into the Spide... 2018      9.4       14189000000         1416442181          
+Aliens                        2086      9.4       14665000000         2751141473          
+Dr. Strangelove or: How I ... 2064      9.4       14511000000         2564932315          
+Inglourious Basterds          2009      9.3       14126000000         2397565064          
+Oldboy                        2003      9.4       14084000000         557124531           
+The Dark Knight Rises         2012      9.4       14147000000         1677524980          
+Amadeus                       2084      9.4       14651000000         1927947045          
+Toy Story                     2095      9.3       14728000000         1300625289          
+Joker                         2019      9.4       14196000000         2694670549          
+Coco                          2017      9.4       14182000000         2577805504          
+Braveheart                    2095      9.4       14728000000         3854864997          
+Avengers: Endgame             2019      9.4       14196000000         2126079169          
+Princess Mononoke             2097      9.4       14742000000         3377701197          
+The Boat                      2081      9.4       14630000000         1569558360          
+Once Upon a Time in America   2084      9.3       14651000000         1471207031          
+Your Name.                    2016      9.4       14175000000         618993475           
+3 Idiots                      2009      9.4       14126000000         2148633615          
+Good Will Hunting             2097      9.3       14742000000         231413878           
+Singin' in the Rain           2052      9.3       14427000000         2118415179          
+Toy Story 3                   2010      9.3       14133000000         3352590970          
+High and Low                  2063      9.4       14504000000         1188062239          
+Capernaum                     2018      9.4       14189000000         3982463487          
+Requiem for a Dream           2000      9.3       14063000000         648533785           
+Eternal Sunshine of the Sp... 2004      9.3       14091000000         76493921            
+2001: A Space Odyssey         2068      9.3       14539000000         1196566243          
+Reservoir Dogs                2092      9.3       14707000000         1220738407          
+Star Wars: Episode VI - Re... 2083      9.3       14644000000         1265743909          
+The Hunt                      2012      9.3       14147000000         451769747           
+M                             2031      9.3       14280000000         1775791601          
+Citizen Kane                  2041      9.3       14350000000         3356931467          
+Come and See                  2085      9.4       14658000000         3096341859          
+North by Northwest            2059      9.3       14476000000         2928988046          
+Lawrence of Arabia            2062      9.3       14497000000         1232225951          
+Ikiru                         2052      9.3       14427000000         3675616699          
+Vertigo                       2058      9.3       14469000000         311671302           
+The Apartment                 2060      9.3       14483000000         3506465185          
+Amélie                       2001      9.3       14070000000         3590723419          
+Double Indemnity              2044      9.3       14371000000         1192199694          
+A Clockwork Orange            2071      9.3       14560000000         3509839475          
+Top Gun: Maverick             2022      9.3       14217000000         2556636177          
+Full Metal Jacket             2087      9.3       14672000000         2191680052          
+Hamilton                      2020      9.4       14203000000         2310273475          
+Scarface                      2083      9.3       14644000000         3608155296          
+To Kill a Mockingbird         2062      9.3       14497000000         2374109838          
+The Sting                     2073      9.3       14574000000         3882382291          
+Incendies                     2010      9.3       14133000000         1755216854          
+Heat                          2095      9.3       14728000000         2713316022          
+A Separation                  2011      9.3       14140000000         1070511138          
+Taxi Driver                   2076      9.2       14595000000         2743782531          
+Up                            2009      9.3       14126000000         461743382           
+Metropolis                    2027      9.3       14252000000         1870363405          
+Die Hard                      2088      9.2       14679000000         2193780857          
+L.A. Confidential             2097      9.2       14742000000         3549418900          
+Indiana Jones and the Last... 2089      9.2       14686000000         273427660           
+Snatch                        2000      9.2       14063000000         1670850320          
+Like Stars on Earth           2007      9.3       14112000000         1317222142          
+Bicycle Thieves               2048      9.3       14399000000         631021176           
+Downfall                      2004      9.2       14091000000         1648228048          
+1917                          2019      9.2       14196000000         1745864548          
+For a Few Dollars More        2065      9.2       14518000000         726537642           
+Dangal                        2016      9.3       14175000000         3195260907          
 ----------------------------------------------------------------------------------------------------

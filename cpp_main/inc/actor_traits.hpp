@@ -33,7 +33,8 @@ struct worker_actor_trait {
  */
 struct sender_actor_trait {
   using signatures =
-      caf::type_list<caf::result<void>(caf::put_atom, movie_list)>;
+      caf::type_list<caf::result<void>(caf::put_atom, movie_list),
+                     caf::result<void>(finish_atom)>;
 };
 
 /**

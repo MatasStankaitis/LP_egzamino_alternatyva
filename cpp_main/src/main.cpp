@@ -5,7 +5,9 @@
  * LP egzamino alternatyva 2025
  *
  * 1 worker procesas - 6000 ms
- * 4 worker procesai - 3000 ms
+ * 4 worker procesai - 2500 ms
+ * 8 worker procesai - 1500 ms (naudojant 8 fizinius 8 loginius branduolius)
+ *
  */
 
 #include <arpa/inet.h>
@@ -27,7 +29,7 @@
 using namespace caf;
 
 static constexpr int PORT = 9999;
-static constexpr char IP[] = "127.0.0.1";
+static constexpr char IP[] = "127.0.0.1"; /* localhost */
 
 int open_tcp_socket() {
   int sockfd = socket(AF_INET, SOCK_STREAM, 0);

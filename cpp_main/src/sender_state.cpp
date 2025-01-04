@@ -40,5 +40,10 @@ sender_actor::behavior_type SenderState::make_behavior() {
         self->println(caf::term::magenta, "[Sender] terminating...");
         self->quit(caf::exit_reason::user_shutdown);
       },
+      [this](finish_atom) {
+        self->println(caf::term::magenta, "[Sender] received finish_atom");
+        self->println(caf::term::magenta, "[Sender] terminating...");
+        self->quit(caf::exit_reason::user_shutdown);
+      },
   };
 }

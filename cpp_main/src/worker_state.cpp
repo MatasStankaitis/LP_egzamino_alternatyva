@@ -43,6 +43,9 @@ worker_actor::behavior_type WorkerState::make_behavior() {
         auto duration = std::chrono::duration_cast<std::chrono::milliseconds>(
                             end_time - start_time_)
                             .count();
+        if (first_message_) {
+          duration = 0;
+        }
 
         self->println(caf::term::green, "[Worker {}] finished work in {} ms",
                       wid, duration);

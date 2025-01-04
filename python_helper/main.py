@@ -8,7 +8,11 @@ SENTINEL_VALUE = {"title": "SENTINEL", "rating": 0.0, "year": 0}
 
 def is_sentinel(movie):
     """Check if movie is a sentinel value."""
-    return movie.get("title") == "SENTINEL" and movie.get("rating") == 0.0 and movie.get("year") == 0
+    return (
+        movie.get("title") == "SENTINEL"
+        and abs(movie.get("rating") - 0.0) < 1e-9
+        and movie.get("year") == 0
+    )
 
 
 def simple_hash(s):
@@ -89,6 +93,8 @@ def worker_proc(task_queue, result_queue, worker_id, second_filter_rating=8.9):
 
 
 def main():
+    """Main function: starts the server and workers."""
+
     print("[Main] Python helper system running. Press Ctrl+C to terminate.")
     srv_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     srv_sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
