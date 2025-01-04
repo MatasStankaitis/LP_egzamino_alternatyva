@@ -14,7 +14,7 @@ PrinterState::PrinterState(printer_actor::pointer_view ptr,
 printer_actor::behavior_type PrinterState::make_behavior() {
   return {
       [this](caf::put_atom, const movie_list &data) {
-        self->println("printer actor received put_atom");
+        self->println(caf::term::cyan, "[Printer] received put_atom\n");
 
         std::ofstream out(output_file_, std::ios::app);
         out << "\nFiltered movies (entries count: " << data.size() << "):\n";
@@ -28,12 +28,12 @@ printer_actor::behavior_type PrinterState::make_behavior() {
 
         if (data.size() == 0) {
           out << "No movies found\n";
+          self->println(caf::term::cyan,
+                        "[Printer] no movies found. Terminating...\n");
           self->quit(caf::exit_reason::user_shutdown);
         }
         for (const auto &m : data) {
-          self->println(
-              "Movie: {} (year: {}, rating: {}, hash1: {}, hash2: {})", m.title,
-              m.year, m.rating, m.hash1, m.hash2);
+          self->println(caf::term::cyan, "[Printer] writing: {}\n", m);
           out << std::left << std::setw(max_title_length)
               << truncate_title(m.title) << std::setw(10) << m.year
               << std::setw(10) << m.rating << std::setw(20) << m.hash1
@@ -42,6 +42,7 @@ printer_actor::behavior_type PrinterState::make_behavior() {
         out << std::setfill('-') << std::setw(100) << "-" << std::endl;
         out.flush();
         out.close();
+        self->println(caf::term::cyan, "[Printer] terminating...\n");
         self->quit(caf::exit_reason::user_shutdown);
       },
       [this](initial_data_atom, const movie_list &data) {

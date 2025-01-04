@@ -7,7 +7,7 @@
 
 class MainState {
  public:
-  MainState(main_actor::pointer_view ptr, worker_list workers,
+  MainState(main_actor::pointer_view ptr, const worker_list &workers,
             sender_actor sender, results_collector_actor results_collector,
             printer_actor printer, std::string_view input_file);
   ~MainState() = default;

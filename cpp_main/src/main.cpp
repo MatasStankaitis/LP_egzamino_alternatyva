@@ -1,7 +1,11 @@
 /**
  * @file main.cpp
+ *
+ * Matas Stankaitis IFF-2/5
+ * LP egzamino alternatyva 2025
+ *
  * 1 worker procesas - 6000 ms
- * 4 worker procesai - 1900 ms
+ * 4 worker procesai - 3000 ms
  */
 
 #include <arpa/inet.h>
@@ -31,7 +35,6 @@ int open_tcp_socket() {
     std::cerr << "Error: failed to create socket\n";
     return -1;
   }
-  // Connect
   sockaddr_in serv_addr{};
   serv_addr.sin_family = AF_INET;
   serv_addr.sin_port = htons(PORT);
