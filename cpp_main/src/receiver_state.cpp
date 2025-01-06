@@ -49,13 +49,23 @@ receiver_actor::behavior_type ReceiverState::make_behavior() {
                       "[Receiver] expecting to receive {} bytes", size);
 
         std::vector<char> data_buffer(size + 1);
-        bytes_read = recv(socket_fd_, data_buffer.data(), size, 0);
-        if (bytes_read <= 0) {
-          self->println(caf::term::bold_yellow,
-                        "[Receiver] failed to receive data. Terminating...");
-          self->mail(finish_atom_v).send(results_collector_);
-          self->quit(caf::exit_reason::user_shutdown);
-          return;
+        ssize_t total_bytes_read = 0;
+
+        /* Read data from the socket */
+        while (total_bytes_read < size) {
+          bytes_read = recv(socket_fd_, data_buffer.data() + total_bytes_read,
+                            size - total_bytes_read, 0);
+          if (bytes_read <= 0) {
+            self->println(caf::term::bold_yellow,
+                          "[Receiver] failed to receive data. Terminating...");
+            self->mail(finish_atom_v).send(results_collector_);
+            self->quit(caf::exit_reason::user_shutdown);
+            return;
+          }
+          total_bytes_read += bytes_read;
+          self->println(caf::term::yellow,
+                        "[Receiver] received {} bytes so far...",
+                        total_bytes_read);
         }
 
         data_buffer[bytes_read] = '\0';
